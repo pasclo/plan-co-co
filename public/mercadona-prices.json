@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T10:31:38.091Z",
+ "updatedAt": "2026-10-31T10:37:15.783Z",
  "postalCode": "08024",
  "warehouse": "bcn1",
  "products": {
@@ -212,33 +212,14 @@
    "alternatives": []
   },
   "pimiento_verde": {
-   "id": "35221",
-   "name": "Pimiento rojo y verde Hacendado ultracongelado · Paquete",
-   "price": 1.2,
-   "size": 450,
-   "url": "https://tienda.mercadona.es/product/35221/pimiento-rojo-verde-hacendado-ultracongelado-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/edc3300ee19dd682083042d5b90d4ca1.jpg?fit=crop&h=300&w=300",
-   "category": "Fruta y verdura > Verdura",
-   "alternatives": [
-    {
-     "id": "35902",
-     "name": "Brochetas de pollo, pimiento verde y tocino de cerdo con varilla · Bandeja",
-     "price": 3.11,
-     "size": 370,
-     "url": "https://tienda.mercadona.es/product/35902/brochetas-pollo-con-varilla-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/15b2eaac006412625943b1d7a52d01de.jpg?fit=crop&h=300&w=300",
-     "category": "Aves y pollo > Pollo"
-    },
-    {
-     "id": "35902",
-     "name": "Brochetas de pollo, pimiento verde y tocino de cerdo con varilla · Bandeja",
-     "price": 3.11,
-     "size": 370,
-     "url": "https://tienda.mercadona.es/product/35902/brochetas-pollo-con-varilla-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/15b2eaac006412625943b1d7a52d01de.jpg?fit=crop&h=300&w=300",
-     "category": "Empanados y elaborados > Empanados y elaborados"
-    }
-   ]
+   "id": "69320",
+   "name": "Pimiento verde freír · Pieza",
+   "price": 0.15,
+   "size": 60,
+   "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza",
+   "thumb": "https://prod-mercadona.imgix.net/images/ace6cddb107859b9d019cdd773ffda00.jpg?fit=crop&h=300&w=300",
+   "category": "Verdura > Calabacín y pimiento",
+   "alternatives": []
   },
   "zanahoria": {
    "id": "69586",
@@ -869,23 +850,14 @@
    ]
   },
   "bacalao": {
-   "id": "63425",
-   "name": "Buñuelos de bacalao Hacendado ultracongelados · Paquete",
-   "price": 4.75,
-   "size": 400,
-   "url": "https://tienda.mercadona.es/product/63425/bunuelos-bacalao-hacendado-ultracongelados-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/b5708a2f75c5db5db4300e6fa65db783.jpeg?fit=crop&h=300&w=300",
-   "category": "Pescado congelado > Pescado rebozado congelado",
+   "id": "62050",
+   "name": "Lomo de bacalao MareDeus ultracongelado · Paquete",
+   "price": 9.22,
+   "size": 384,
+   "url": "https://tienda.mercadona.es/product/62050/lomo-bacalao-maredeus-ultracongelado-punto-sal-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/aa68741e624d6f99903465294f3de2aa.jpg?fit=crop&h=300&w=300",
+   "category": "Pescado congelado > Pescado congelado",
    "alternatives": [
-    {
-     "id": "62050",
-     "name": "Lomo de bacalao MareDeus ultracongelado · Paquete",
-     "price": 9.22,
-     "size": 384,
-     "url": "https://tienda.mercadona.es/product/62050/lomo-bacalao-maredeus-ultracongelado-punto-sal-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/aa68741e624d6f99903465294f3de2aa.jpg?fit=crop&h=300&w=300",
-     "category": "Pescado congelado > Pescado congelado"
-    },
     {
      "id": "87211",
      "name": "Bacalao al punto de sal descongelado · Bandeja",
@@ -2124,23 +2096,14 @@
    ]
   },
   "atun": {
-   "id": "18037",
-   "name": "Atún en salsa de tomate Hacendado · Pack-3",
-   "price": 2.1,
+   "id": "18092",
+   "name": "Atún claro en aceite de girasol Hacendado · Pack-3",
+   "price": 2.7,
    "size": 240,
-   "url": "https://tienda.mercadona.es/product/18037/atun-salsa-tomate-hacendado-pack-3",
-   "thumb": "https://prod-mercadona.imgix.net/images/c9071d53ff875259f5093059e17a732b.jpeg?fit=crop&h=300&w=300",
+   "url": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
+   "thumb": "https://prod-mercadona.imgix.net/images/05c67043e6c2918b27b0d79ebfb99a7a.jpg?fit=crop&h=300&w=300",
    "category": "Atún y otras conservas de pescado > Atún",
    "alternatives": [
-    {
-     "id": "18092",
-     "name": "Atún claro en aceite de girasol Hacendado · Pack-3",
-     "price": 2.7,
-     "size": 240,
-     "url": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
-     "thumb": "https://prod-mercadona.imgix.net/images/05c67043e6c2918b27b0d79ebfb99a7a.jpg?fit=crop&h=300&w=300",
-     "category": "Atún y otras conservas de pescado > Atún"
-    },
     {
      "id": "18054",
      "name": "Atún claro en aceite de oliva Hacendado · Bote",
@@ -2175,6 +2138,15 @@
      "size": 111,
      "url": "https://tienda.mercadona.es/product/18071/atun-claro-aceite-oliva-hacendado-lata",
      "thumb": "https://prod-mercadona.imgix.net/images/ff946d98e9578c45513cbf77bbf4127d.jpg?fit=crop&h=300&w=300",
+     "category": "Atún y otras conservas de pescado > Atún"
+    },
+    {
+     "id": "18086",
+     "name": "Atún en aceite de girasol Hacendado · Lata",
+     "price": 6.5,
+     "size": 900,
+     "url": "https://tienda.mercadona.es/product/18086/atun-aceite-girasol-hacendado-lata",
+     "thumb": "https://prod-mercadona.imgix.net/images/2c06dcbb4643e6b4447d5d064c4eb6a5.jpeg?fit=crop&h=300&w=300",
      "category": "Atún y otras conservas de pescado > Atún"
     }
    ]
