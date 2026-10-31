@@ -1,15 +1,15 @@
 {
- "updatedAt": "2026-10-31T10:27:20.103Z",
+ "updatedAt": "2026-10-31T10:31:38.091Z",
  "postalCode": "08024",
  "warehouse": "bcn1",
  "products": {
   "patata": {
-   "id": "69099",
-   "name": "Patatas · Malla",
-   "price": 5,
-   "size": 5000,
-   "url": "https://tienda.mercadona.es/product/69099/patatas-malla",
-   "thumb": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpeg?fit=crop&h=300&w=300",
+   "id": "69098",
+   "name": "Patatas rojas · Malla",
+   "price": 3.8,
+   "size": 2000,
+   "url": "https://tienda.mercadona.es/product/69098/patatas-rojas-malla",
+   "thumb": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpeg?fit=crop&h=300&w=300",
    "category": "Verdura > Patata",
    "alternatives": [
     {
@@ -22,21 +22,21 @@
      "category": "Verdura > Patata"
     },
     {
-     "id": "69066",
-     "name": "Patata · Pieza",
-     "price": 0.38,
-     "size": 200,
-     "url": "https://tienda.mercadona.es/product/69066/patata-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/12ec1b808bbcbc2d5ad6b40d9021cf76.jpg?fit=crop&h=300&w=300",
+     "id": "69448",
+     "name": "Patatas especial para freír · Malla",
+     "price": 3.9,
+     "size": 2000,
+     "url": "https://tienda.mercadona.es/product/69448/patatas-especial-freir-malla",
+     "thumb": "https://prod-mercadona.imgix.net/images/9573ce3b902f86934b52cae8ccc3f484.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Patata"
     },
     {
-     "id": "69098",
-     "name": "Patatas rojas · Malla",
-     "price": 3.8,
-     "size": 2000,
-     "url": "https://tienda.mercadona.es/product/69098/patatas-rojas-malla",
-     "thumb": "https://prod-mercadona.imgix.net/images/12962dac735b6d3c60e7448d339640a8.jpeg?fit=crop&h=300&w=300",
+     "id": "69099",
+     "name": "Patatas · Malla",
+     "price": 5,
+     "size": 5000,
+     "url": "https://tienda.mercadona.es/product/69099/patatas-malla",
+     "thumb": "https://prod-mercadona.imgix.net/images/a66b8d4177a91f7f219903267291e071.jpeg?fit=crop&h=300&w=300",
      "category": "Verdura > Patata"
     },
     {
@@ -49,34 +49,25 @@
      "category": "Verdura > Verduras al vapor"
     },
     {
-     "id": "69448",
-     "name": "Patatas especial para freír · Malla",
-     "price": 3.9,
-     "size": 2000,
-     "url": "https://tienda.mercadona.es/product/69448/patatas-especial-freir-malla",
-     "thumb": "https://prod-mercadona.imgix.net/images/9573ce3b902f86934b52cae8ccc3f484.jpg?fit=crop&h=300&w=300",
+     "id": "69066",
+     "name": "Patata · Pieza",
+     "price": 0.38,
+     "size": 200,
+     "url": "https://tienda.mercadona.es/product/69066/patata-pieza",
+     "thumb": "https://prod-mercadona.imgix.net/images/12ec1b808bbcbc2d5ad6b40d9021cf76.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Patata"
     }
    ]
   },
   "cebolla": {
-   "id": "69079",
+   "id": "69089",
    "name": "Cebollas · Malla",
-   "price": 3,
-   "size": 2000,
-   "url": "https://tienda.mercadona.es/product/69079/cebollas-malla",
-   "thumb": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=300&w=300",
+   "price": 1.5,
+   "size": 1000,
+   "url": "https://tienda.mercadona.es/product/69089/cebollas-malla",
+   "thumb": "https://prod-mercadona.imgix.net/images/d950590e426dca5e9531e1ff2809edb4.jpeg?fit=crop&h=300&w=300",
    "category": "Verdura > Cebolla y ajo",
    "alternatives": [
-    {
-     "id": "69089",
-     "name": "Cebollas · Malla",
-     "price": 1.5,
-     "size": 1000,
-     "url": "https://tienda.mercadona.es/product/69089/cebollas-malla",
-     "thumb": "https://prod-mercadona.imgix.net/images/d950590e426dca5e9531e1ff2809edb4.jpeg?fit=crop&h=300&w=300",
-     "category": "Verdura > Cebolla y ajo"
-    },
     {
      "id": "69153",
      "name": "Cebollas morada · Malla",
@@ -93,6 +84,15 @@
      "size": 1000,
      "url": "https://tienda.mercadona.es/product/69155/cebollas-dulces-sabor-suave-malla",
      "thumb": "https://prod-mercadona.imgix.net/images/290e757e49b10036cb0cb4eb8efc58e0.jpg?fit=crop&h=300&w=300",
+     "category": "Verdura > Cebolla y ajo"
+    },
+    {
+     "id": "69079",
+     "name": "Cebollas · Malla",
+     "price": 3,
+     "size": 2000,
+     "url": "https://tienda.mercadona.es/product/69079/cebollas-malla",
+     "thumb": "https://prod-mercadona.imgix.net/images/c8d94c6563bfadc845df944fe483bfca.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Cebolla y ajo"
     },
     {
@@ -116,15 +116,6 @@
    "category": "Verdura > Cebolla y ajo",
    "alternatives": [
     {
-     "id": "69695",
-     "name": "Ajo negro dientes pelados · Tarrina",
-     "price": 5.5,
-     "size": 85,
-     "url": "https://tienda.mercadona.es/product/69695/ajo-negro-dientes-pelados-tarrina",
-     "thumb": "https://prod-mercadona.imgix.net/images/aafe7d3532da499662ffc624e4cd05e4.jpg?fit=crop&h=300&w=300",
-     "category": "Verdura > Cebolla y ajo"
-    },
-    {
      "id": "40475",
      "name": "Picada de ajo y perejil · Bandeja",
      "price": 1.5,
@@ -132,36 +123,27 @@
      "url": "https://tienda.mercadona.es/product/40475/picada-ajo-perejil-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/736f2be4a71ddeef9fb68dc3b4189b41.jpeg?fit=crop&h=300&w=300",
      "category": "Verdura > Cebolla y ajo"
+    },
+    {
+     "id": "69695",
+     "name": "Ajo negro dientes pelados · Tarrina",
+     "price": 5.5,
+     "size": 85,
+     "url": "https://tienda.mercadona.es/product/69695/ajo-negro-dientes-pelados-tarrina",
+     "thumb": "https://prod-mercadona.imgix.net/images/aafe7d3532da499662ffc624e4cd05e4.jpg?fit=crop&h=300&w=300",
+     "category": "Verdura > Cebolla y ajo"
     }
    ]
   },
   "tomate": {
-   "id": "69971",
-   "name": "Tomates · Malla",
-   "price": 4.2,
-   "size": 2000,
-   "url": "https://tienda.mercadona.es/product/69971/tomates-malla",
-   "thumb": "https://prod-mercadona.imgix.net/images/8d8b0344fdd594338795d6d4e7f496aa.jpg?fit=crop&h=300&w=300",
+   "id": "69976",
+   "name": "Tomates negros",
+   "price": 2.6,
+   "size": 1000,
+   "url": "https://tienda.mercadona.es/product/69976/tomates-kumato-negro-bandeja",
+   "thumb": "https://prod-mercadona.imgix.net/images/9dcdcd3905a23003d0033161674abf16.jpg?fit=crop&h=300&w=300",
    "category": "Verdura > Tomate",
    "alternatives": [
-    {
-     "id": "69912",
-     "name": "Tomate pera · Pieza",
-     "price": 0.26,
-     "size": 120,
-     "url": "https://tienda.mercadona.es/product/69912/tomate-pera-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/29e2448e80d5a23e8fc907138e551748.jpg?fit=crop&h=300&w=300",
-     "category": "Verdura > Tomate"
-    },
-    {
-     "id": "69968",
-     "name": "Tomate canario · Pieza",
-     "price": 0.35,
-     "size": 160,
-     "url": "https://tienda.mercadona.es/product/69968/tomate-canario-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/74f33f458b7f5fa55cdb4490730cccd8.jpg?fit=crop&h=300&w=300",
-     "category": "Verdura > Tomate"
-    },
     {
      "id": "69975",
      "name": "Tomates pera",
@@ -172,21 +154,39 @@
      "category": "Verdura > Tomate"
     },
     {
-     "id": "69937",
-     "name": "Tomate ensalada · Pieza",
-     "price": 0.6,
-     "size": 240,
-     "url": "https://tienda.mercadona.es/product/69937/tomate-ensalada-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/ccb2b42ba2bb6a7b692dac6101074709.jpg?fit=crop&h=300&w=300",
+     "id": "69487",
+     "name": "Rama de Tomates · Granel",
+     "price": 1.89,
+     "size": 700,
+     "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel",
+     "thumb": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Tomate"
     },
     {
-     "id": "69976",
-     "name": "Tomates negros",
-     "price": 2.6,
-     "size": 1000,
-     "url": "https://tienda.mercadona.es/product/69976/tomates-kumato-negro-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/9dcdcd3905a23003d0033161674abf16.jpg?fit=crop&h=300&w=300",
+     "id": "69971",
+     "name": "Tomates · Malla",
+     "price": 4.2,
+     "size": 2000,
+     "url": "https://tienda.mercadona.es/product/69971/tomates-malla",
+     "thumb": "https://prod-mercadona.imgix.net/images/8d8b0344fdd594338795d6d4e7f496aa.jpg?fit=crop&h=300&w=300",
+     "category": "Verdura > Tomate"
+    },
+    {
+     "id": "69990",
+     "name": "Tomates cherry · Bandeja",
+     "price": 2.2,
+     "size": 500,
+     "url": "https://tienda.mercadona.es/product/69990/tomates-cherry-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/686833b9bfd1cc7f410c39199a347a85.jpg?fit=crop&h=300&w=300",
+     "category": "Verdura > Tomate"
+    },
+    {
+     "id": "69967",
+     "name": "Tomate de ramillete de Mallorca · Bandeja",
+     "price": 3.96,
+     "size": 720,
+     "url": "https://tienda.mercadona.es/product/69967/tomate-ramillete-mallorca-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/bfdd8dde8a56bb2cec63fed82e68f619.jpeg?fit=crop&h=300&w=300",
      "category": "Verdura > Tomate"
     }
    ]
@@ -212,14 +212,33 @@
    "alternatives": []
   },
   "pimiento_verde": {
-   "id": "69320",
-   "name": "Pimiento verde freír · Pieza",
-   "price": 0.15,
-   "size": 60,
-   "url": "https://tienda.mercadona.es/product/69320/pimiento-verde-freir-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/ace6cddb107859b9d019cdd773ffda00.jpg?fit=crop&h=300&w=300",
-   "category": "Verdura > Calabacín y pimiento",
-   "alternatives": []
+   "id": "35221",
+   "name": "Pimiento rojo y verde Hacendado ultracongelado · Paquete",
+   "price": 1.2,
+   "size": 450,
+   "url": "https://tienda.mercadona.es/product/35221/pimiento-rojo-verde-hacendado-ultracongelado-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/edc3300ee19dd682083042d5b90d4ca1.jpg?fit=crop&h=300&w=300",
+   "category": "Fruta y verdura > Verdura",
+   "alternatives": [
+    {
+     "id": "35902",
+     "name": "Brochetas de pollo, pimiento verde y tocino de cerdo con varilla · Bandeja",
+     "price": 3.11,
+     "size": 370,
+     "url": "https://tienda.mercadona.es/product/35902/brochetas-pollo-con-varilla-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/15b2eaac006412625943b1d7a52d01de.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y pollo > Pollo"
+    },
+    {
+     "id": "35902",
+     "name": "Brochetas de pollo, pimiento verde y tocino de cerdo con varilla · Bandeja",
+     "price": 3.11,
+     "size": 370,
+     "url": "https://tienda.mercadona.es/product/35902/brochetas-pollo-con-varilla-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/15b2eaac006412625943b1d7a52d01de.jpg?fit=crop&h=300&w=300",
+     "category": "Empanados y elaborados > Empanados y elaborados"
+    }
+   ]
   },
   "zanahoria": {
    "id": "69586",
@@ -240,21 +259,21 @@
      "category": "Verdura > Pepino y zanahoria"
     },
     {
-     "id": "69722",
-     "name": "Zanahoria rallada lavada · Paquete",
-     "price": 1,
-     "size": 150,
-     "url": "https://tienda.mercadona.es/product/69722/zanahoria-rallada-base-ensalada-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/55981cabbe3dfaa2216e5038375cb91d.jpg?fit=crop&h=300&w=300",
-     "category": "Verdura > Pepino y zanahoria"
-    },
-    {
      "id": "69877",
      "name": "Palitos de zanahoria · Tarrina",
      "price": 2.25,
      "size": 180,
      "url": "https://tienda.mercadona.es/product/69877/palitos-zanahoria-tarrina",
      "thumb": "https://prod-mercadona.imgix.net/images/96e23b094630af760552da5ae8217c72.jpeg?fit=crop&h=300&w=300",
+     "category": "Verdura > Pepino y zanahoria"
+    },
+    {
+     "id": "69722",
+     "name": "Zanahoria rallada lavada · Paquete",
+     "price": 1,
+     "size": 150,
+     "url": "https://tienda.mercadona.es/product/69722/zanahoria-rallada-base-ensalada-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/55981cabbe3dfaa2216e5038375cb91d.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Pepino y zanahoria"
     }
    ]
@@ -268,24 +287,6 @@
    "thumb": "https://prod-mercadona.imgix.net/images/320cf3cbed15d3543322144333ce1a98.jpeg?fit=crop&h=300&w=300",
    "category": "Lechuga y ensalada preparada > Lechuga",
    "alternatives": [
-    {
-     "id": "69581",
-     "name": "Cogollos de lechuga",
-     "price": 1.05,
-     "size": 3,
-     "url": "https://tienda.mercadona.es/product/69581/cogollos-lechuga-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/45f7e9b4705a782026f2b7365a72216b.jpeg?fit=crop&h=300&w=300",
-     "category": "Lechuga y ensalada preparada > Lechuga"
-    },
-    {
-     "id": "69121",
-     "name": "Lechugas corazón romana",
-     "price": 1.85,
-     "size": 2,
-     "url": "https://tienda.mercadona.es/product/69121/lechugas-corazon-romana-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/f073d57203d1d5b93f0aa0b07f5b1f3a.jpeg?fit=crop&h=300&w=300",
-     "category": "Lechuga y ensalada preparada > Lechuga"
-    },
     {
      "id": "69122",
      "name": "Lechuga corazón romana · Paquete",
@@ -305,33 +306,51 @@
      "category": "Lechuga y ensalada preparada > Lechuga"
     },
     {
-     "id": "69582",
-     "name": "Cogollos corazón de lechuga",
-     "price": 2,
-     "size": 6,
-     "url": "https://tienda.mercadona.es/product/69582/cogollos-corazon-lechuga-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/7b21cbc693c021af52107cdd30fb3e0d.jpg?fit=crop&h=300&w=300",
+     "id": "69670",
+     "name": "Lechuga iceberg cortada y lavada · Paquete",
+     "price": 0.95,
+     "size": 1,
+     "url": "https://tienda.mercadona.es/product/69670/lechuga-iceberg-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/580c669243865a140be58304751de37b.jpg?fit=crop&h=300&w=300",
+     "category": "Lechuga y ensalada preparada > Lechuga"
+    },
+    {
+     "id": "69435",
+     "name": "Lechuga romana cortada y lavada · Paquete",
+     "price": 1.15,
+     "size": 1,
+     "url": "https://tienda.mercadona.es/product/69435/lechuga-romana-cortada-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/de27c05991934ccea736560b54d21694.jpg?fit=crop&h=300&w=300",
+     "category": "Lechuga y ensalada preparada > Lechuga"
+    },
+    {
+     "id": "69121",
+     "name": "Lechugas corazón romana",
+     "price": 1.85,
+     "size": 2,
+     "url": "https://tienda.mercadona.es/product/69121/lechugas-corazon-romana-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/f073d57203d1d5b93f0aa0b07f5b1f3a.jpeg?fit=crop&h=300&w=300",
      "category": "Lechuga y ensalada preparada > Lechuga"
     }
    ]
   },
   "espinacas": {
-   "id": "69984",
-   "name": "Espinacas baby lavadas · Paquete",
-   "price": 1.15,
-   "size": 100,
-   "url": "https://tienda.mercadona.es/product/69984/espinaca-baby-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/93f2897c72efc76f59305ef61e360d6c.jpg?fit=crop&h=300&w=300",
-   "category": "Lechuga y ensalada preparada > Lechuga",
+   "id": "69730",
+   "name": "Espinacas cortadas y lavadas · Paquete",
+   "price": 1.3,
+   "size": 300,
+   "url": "https://tienda.mercadona.es/product/69730/espinacas-cortadas-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/652d843ed52e1271a7babf8d32e43d8f.jpg?fit=crop&h=300&w=300",
+   "category": "Verdura > Otras verduras y hortalizas",
    "alternatives": [
     {
-     "id": "69730",
-     "name": "Espinacas cortadas y lavadas · Paquete",
-     "price": 1.3,
-     "size": 300,
-     "url": "https://tienda.mercadona.es/product/69730/espinacas-cortadas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/652d843ed52e1271a7babf8d32e43d8f.jpg?fit=crop&h=300&w=300",
-     "category": "Verdura > Otras verduras y hortalizas"
+     "id": "69984",
+     "name": "Espinacas baby lavadas · Paquete",
+     "price": 1.15,
+     "size": 100,
+     "url": "https://tienda.mercadona.es/product/69984/espinaca-baby-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/93f2897c72efc76f59305ef61e360d6c.jpg?fit=crop&h=300&w=300",
+     "category": "Lechuga y ensalada preparada > Lechuga"
     }
    ]
   },
@@ -435,21 +454,21 @@
    ]
   },
   "limon": {
-   "id": "3210",
-   "name": "Limón · Pieza",
-   "price": 0.47,
-   "size": 1,
-   "url": "https://tienda.mercadona.es/product/3210/limon-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
+   "id": "3236",
+   "name": "Limones · Malla",
+   "price": 2.3,
+   "size": 6,
+   "url": "https://tienda.mercadona.es/product/3236/limones-malla",
+   "thumb": "https://prod-mercadona.imgix.net/images/1d482fa781e179d28c83a714efe1beaa.jpeg?fit=crop&h=300&w=300",
    "category": "Fruta > Cítricos",
    "alternatives": [
     {
-     "id": "3236",
-     "name": "Limones · Malla",
-     "price": 2.3,
+     "id": "3210",
+     "name": "Limón · Pieza",
+     "price": 0.47,
      "size": 1,
-     "url": "https://tienda.mercadona.es/product/3236/limones-malla",
-     "thumb": "https://prod-mercadona.imgix.net/images/1d482fa781e179d28c83a714efe1beaa.jpeg?fit=crop&h=300&w=300",
+     "url": "https://tienda.mercadona.es/product/3210/limon-pieza",
+     "thumb": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
      "category": "Fruta > Cítricos"
     },
     {
@@ -494,39 +513,21 @@
    "alternatives": []
   },
   "pechuga_pollo": {
-   "id": "3724",
-   "name": "Pechugas enteras de pollo · Bandeja",
-   "price": 4.06,
-   "size": 610,
-   "url": "https://tienda.mercadona.es/product/3724/pechugas-enteras-pollo-bandeja",
-   "thumb": "https://prod-mercadona.imgix.net/images/626ed2bc08b4d92dc0d786b7c368a8c9.jpg?fit=crop&h=300&w=300",
+   "id": "2787",
+   "name": "Filetes pechuga de pollo · Bandeja",
+   "price": 4.08,
+   "size": 530,
+   "url": "https://tienda.mercadona.es/product/2787/filetes-pechuga-pollo-bandeja",
+   "thumb": "https://prod-mercadona.imgix.net/images/cfbe3b741d3a64cc637efe0c7bf0bb93.jpg?fit=crop&h=300&w=300",
    "category": "Aves y pollo > Pollo",
    "alternatives": [
     {
-     "id": "2787",
-     "name": "Filetes pechuga de pollo · Bandeja",
-     "price": 4.08,
-     "size": 530,
-     "url": "https://tienda.mercadona.es/product/2787/filetes-pechuga-pollo-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/cfbe3b741d3a64cc637efe0c7bf0bb93.jpg?fit=crop&h=300&w=300",
-     "category": "Aves y pollo > Pollo"
-    },
-    {
-     "id": "30006",
-     "name": "Pechugas de pollo enteras congeladas · Paquete",
-     "price": 7.32,
-     "size": 1200,
-     "url": "https://tienda.mercadona.es/product/30006/pechugas-pollo-enteras-congeladas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/6200b9b8c98e0a9e0aaf48a1162ffbff.jpg?fit=crop&h=300&w=300",
-     "category": "Carne congelada > Carne congelada"
-    },
-    {
-     "id": "3682",
-     "name": "Pechugas enteras familiar de pollo · Bandeja",
-     "price": 7.44,
-     "size": 1200,
-     "url": "https://tienda.mercadona.es/product/3682/pechugas-enteras-pollo-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/e20a225bd8032beb2866a2a0716809ad.jpg?fit=crop&h=300&w=300",
+     "id": "3724",
+     "name": "Pechugas enteras de pollo · Bandeja",
+     "price": 4.06,
+     "size": 610,
+     "url": "https://tienda.mercadona.es/product/3724/pechugas-enteras-pollo-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/626ed2bc08b4d92dc0d786b7c368a8c9.jpg?fit=crop&h=300&w=300",
      "category": "Aves y pollo > Pollo"
     },
     {
@@ -546,6 +547,24 @@
      "url": "https://tienda.mercadona.es/product/17460/pechugas-pollo-empanadas-marinadas-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/96a22d652398ad93e3b0465437b9d323.jpg?fit=crop&h=300&w=300",
      "category": "Empanados y elaborados > Empanados y elaborados"
+    },
+    {
+     "id": "3400",
+     "name": "Filetes pechuga de pollo corte fino · Bandeja",
+     "price": 4.1,
+     "size": 500,
+     "url": "https://tienda.mercadona.es/product/3400/filetes-pechuga-pollo-corte-fino-minimo-10-filetes-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/c89d28c5929f14861da52e2508912e3d.jpeg?fit=crop&h=300&w=300",
+     "category": "Aves y pollo > Pollo"
+    },
+    {
+     "id": "3653",
+     "name": "Filetes pechuga de pollo extra tiernos · Bandeja",
+     "price": 4.31,
+     "size": 560,
+     "url": "https://tienda.mercadona.es/product/3653/filetes-pechuga-pollo-extra-tiernos-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/73de377ed3df77f417090cb84455c9bf.jpeg?fit=crop&h=300&w=300",
+     "category": "Aves y pollo > Pollo"
     }
    ]
   },
@@ -578,15 +597,6 @@
      "category": "Hamburguesas y picadas > Picadas y otros"
     },
     {
-     "id": "3454",
-     "name": "Preparado de carne picada vacuno · Bandeja",
-     "price": 10.8,
-     "size": 1000,
-     "url": "https://tienda.mercadona.es/product/3454/preparado-carne-picada-vacuno-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/568b0075f1c53000f2a26946b6539e0c.jpg?fit=crop&h=300&w=300",
-     "category": "Hamburguesas y picadas > Picadas y otros"
-    },
-    {
      "id": "2868",
      "name": "Preparado de carne picada vacuno · Bandeja",
      "price": 5.5,
@@ -605,12 +615,21 @@
      "category": "Hamburguesas y picadas > Picadas y otros"
     },
     {
-     "id": "3453",
+     "id": "2869",
      "name": "Preparado de carne picada vacuno y cerdo · Bandeja",
-     "price": 8,
+     "price": 4.1,
+     "size": 500,
+     "url": "https://tienda.mercadona.es/product/2869/preparado-carne-picada-vacuno-cerdo-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/3ff4619c75302a2ae20831ae3ffe6c1c.jpeg?fit=crop&h=300&w=300",
+     "category": "Hamburguesas y picadas > Picadas y otros"
+    },
+    {
+     "id": "3454",
+     "name": "Preparado de carne picada vacuno · Bandeja",
+     "price": 10.8,
      "size": 1000,
-     "url": "https://tienda.mercadona.es/product/3453/preparado-carne-picada-vacuno-cerdo-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/5abc17f64c9721afe904923d5b12ecd2.jpeg?fit=crop&h=300&w=300",
+     "url": "https://tienda.mercadona.es/product/3454/preparado-carne-picada-vacuno-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/568b0075f1c53000f2a26946b6539e0c.jpg?fit=crop&h=300&w=300",
      "category": "Hamburguesas y picadas > Picadas y otros"
     }
    ]
@@ -626,40 +645,22 @@
    "alternatives": []
   },
   "lomo_cerdo": {
-   "id": "4590",
-   "name": "Lomo de cerdo trozo · Pieza",
-   "price": 4.68,
-   "size": 1040,
-   "url": "https://tienda.mercadona.es/product/4590/lomo-cerdo-trozo-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/ab6772608c4b8e26802aa494293ea5eb.jpg?fit=crop&h=300&w=300",
+   "id": "2715",
+   "name": "Filetes lomo de cerdo adobado · Bandeja",
+   "price": 3.27,
+   "size": 470,
+   "url": "https://tienda.mercadona.es/product/2715/lomo-cerdo-adobado-bandeja",
+   "thumb": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=300&w=300",
    "category": "Cerdo > Cerdo",
    "alternatives": [
     {
-     "id": "3554",
-     "name": "Pieza cabeza lomo de cerdo · Pieza",
-     "price": 5.54,
-     "size": 1130,
-     "url": "https://tienda.mercadona.es/product/3554/pieza-magro-cabeza-cerdo-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/9fde328faea02b49f032104eba79ced2.jpg?fit=crop&h=300&w=300",
-     "category": "Cerdo > Cerdo"
-    },
-    {
-     "id": "2817",
-     "name": "Filetes lomo de cerdo cabeza · Bandeja",
-     "price": 4.22,
-     "size": 670,
-     "url": "https://tienda.mercadona.es/product/2817/filetes-lomo-cerdo-cabeza-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/2b88a5d154cc77e60b79bf3265a31886.jpg?fit=crop&h=300&w=300",
-     "category": "Cerdo > Cerdo"
-    },
-    {
-     "id": "3395",
-     "name": "Filetes lomo de cerdo familiar · Bandeja",
-     "price": 5.67,
-     "size": 900,
-     "url": "https://tienda.mercadona.es/product/3395/filetes-lomo-cerdo-familiar-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/7865223a99982e513a1e44182bf0edd4.jpg?fit=crop&h=300&w=300",
-     "category": "Cerdo > Cerdo"
+     "id": "2715",
+     "name": "Filetes lomo de cerdo adobado · Bandeja",
+     "price": 3.27,
+     "size": 470,
+     "url": "https://tienda.mercadona.es/product/2715/lomo-cerdo-adobado-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=300&w=300",
+     "category": "Empanados y elaborados > Empanados y elaborados"
     },
     {
      "id": "12792",
@@ -671,12 +672,30 @@
      "category": "Cerdo > Cerdo"
     },
     {
-     "id": "2715",
-     "name": "Filetes lomo de cerdo adobado · Bandeja",
-     "price": 3.27,
-     "size": 470,
-     "url": "https://tienda.mercadona.es/product/2715/lomo-cerdo-adobado-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/f1c9dda0bf7290499534dbe4776c6207.jpeg?fit=crop&h=300&w=300",
+     "id": "2849",
+     "name": "Filetes lomo de cerdo extra tiernos · Bandeja",
+     "price": 3.54,
+     "size": 460,
+     "url": "https://tienda.mercadona.es/product/2849/filetes-lomo-cerdo-extra-tiernos-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/96b976a2ee3a7047843870ef6ccc857e.jpg?fit=crop&h=300&w=300",
+     "category": "Cerdo > Cerdo"
+    },
+    {
+     "id": "86395",
+     "name": "Filetes lomo de cerdo corte fino · Bandeja",
+     "price": 3.91,
+     "size": 550,
+     "url": "https://tienda.mercadona.es/product/86395/lomo-cerdo-fino-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/a3ba20f5b4816bc681f38f82aae566cd.jpg?fit=crop&h=300&w=300",
+     "category": "Cerdo > Cerdo"
+    },
+    {
+     "id": "2817",
+     "name": "Filetes lomo de cerdo cabeza · Bandeja",
+     "price": 4.22,
+     "size": 670,
+     "url": "https://tienda.mercadona.es/product/2817/filetes-lomo-cerdo-cabeza-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/2b88a5d154cc77e60b79bf3265a31886.jpg?fit=crop&h=300&w=300",
      "category": "Cerdo > Cerdo"
     }
    ]
@@ -685,34 +704,34 @@
    "id": "2873",
    "name": "Burger de vacuno · Bandeja",
    "price": 5.9,
-   "size": 1,
+   "size": 6,
    "url": "https://tienda.mercadona.es/product/2873/burger-vacuno-bandeja",
    "thumb": "https://prod-mercadona.imgix.net/images/09de086f011cef23ee2910e3aa6e983d.jpeg?fit=crop&h=300&w=300",
    "category": "Hamburguesas y picadas > Hamburguesas",
    "alternatives": [
     {
-     "id": "3547",
-     "name": "Burger de vacuno gruesas · Bandeja",
-     "price": 5.4,
-     "size": 1,
-     "url": "https://tienda.mercadona.es/product/3547/burger-vacuno-gruesas-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/d3bb2192a1500c898c75b9c4780a8e94.jpeg?fit=crop&h=300&w=300",
-     "category": "Hamburguesas y picadas > Hamburguesas"
-    },
-    {
      "id": "2872",
      "name": "Burger de vacuno y cerdo · Bandeja",
      "price": 4.2,
-     "size": 1,
+     "size": 6,
      "url": "https://tienda.mercadona.es/product/2872/burger-vacuno-cerdo-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/e5279086a2d46bed3787947f6a620949.jpg?fit=crop&h=300&w=300",
+     "category": "Hamburguesas y picadas > Hamburguesas"
+    },
+    {
+     "id": "3547",
+     "name": "Burger de vacuno gruesas · Bandeja",
+     "price": 5.4,
+     "size": 2,
+     "url": "https://tienda.mercadona.es/product/3547/burger-vacuno-gruesas-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/d3bb2192a1500c898c75b9c4780a8e94.jpeg?fit=crop&h=300&w=300",
      "category": "Hamburguesas y picadas > Hamburguesas"
     },
     {
      "id": "10453",
      "name": "Mini burgers de vacuno y cerdo · Bandeja",
      "price": 3.1,
-     "size": 1,
+     "size": 8,
      "url": "https://tienda.mercadona.es/product/10453/mini-burgers-vacuno-cerdo-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/b9beadec6e479798f27f209466d7a813.jpg?fit=crop&h=300&w=300",
      "category": "Hamburguesas y picadas > Hamburguesas"
@@ -721,7 +740,7 @@
      "id": "3978",
      "name": "Burger de vacuno y cerdo con ajo y perejil · Bandeja",
      "price": 2.9,
-     "size": 1,
+     "size": 2,
      "url": "https://tienda.mercadona.es/product/3978/burger-vacuno-cerdo-con-ajo-perejil-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/ed3a901f177e2142a8275f0fe631ce5c.jpg?fit=crop&h=300&w=300",
      "category": "Hamburguesas y picadas > Hamburguesas"
@@ -730,7 +749,7 @@
      "id": "4155",
      "name": "Burger de vacuno y cerdo con jamón y cebolla caramelizada · Bandeja",
      "price": 2.8,
-     "size": 1,
+     "size": 2,
      "url": "https://tienda.mercadona.es/product/4155/burger-vacuno-cerdo-con-jamon-cebolla-caramelizada-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/b5b402ed0066a733539eca7905eddc2a.jpg?fit=crop&h=300&w=300",
      "category": "Hamburguesas y picadas > Hamburguesas"
@@ -738,22 +757,22 @@
    ]
   },
   "merluza": {
-   "id": "87734",
-   "name": "Merluza rebozada · Bandeja",
-   "price": 3.9,
-   "size": 230,
-   "url": "https://tienda.mercadona.es/product/87734/merluza-rebozada-bandeja",
-   "thumb": "https://prod-mercadona.imgix.net/images/d11ed050df1dbe4ec63a53b236f93d04.jpg?fit=crop&h=300&w=300",
-   "category": "Pescado fresco > Otros",
+   "id": "87240",
+   "name": "Porciones de merluza · Bandeja",
+   "price": 9.43,
+   "size": 350,
+   "url": "https://tienda.mercadona.es/product/87240/porciones-merluza-cabo-bandeja",
+   "thumb": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=300&w=300",
+   "category": "Pescado fresco > Merluza",
    "alternatives": [
     {
-     "id": "87240",
-     "name": "Porciones de merluza · Bandeja",
-     "price": 9.43,
-     "size": 350,
-     "url": "https://tienda.mercadona.es/product/87240/porciones-merluza-cabo-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=300&w=300",
-     "category": "Pescado fresco > Merluza"
+     "id": "16562",
+     "name": "Fingers de merluza Hacendado ultracongelados · Paquete",
+     "price": 3.75,
+     "size": 400,
+     "url": "https://tienda.mercadona.es/product/16562/fingers-merluza-hacendado-ultracongelados-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/baab82db7292c3f4cbae6970eb8425b9.jpg?fit=crop&h=300&w=300",
+     "category": "Pescado congelado > Pescado rebozado congelado"
     },
     {
      "id": "60954",
@@ -765,61 +784,43 @@
      "category": "Pescado congelado > Pescado rebozado congelado"
     },
     {
-     "id": "16562",
-     "name": "Fingers de merluza Hacendado ultracongelados · Paquete",
-     "price": 3.75,
-     "size": 400,
-     "url": "https://tienda.mercadona.es/product/16562/fingers-merluza-hacendado-ultracongelados-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/baab82db7292c3f4cbae6970eb8425b9.jpg?fit=crop&h=300&w=300",
-     "category": "Pescado congelado > Pescado rebozado congelado"
-    },
-    {
-     "id": "27548",
-     "name": "Elaborado de merluza y langostino · Bandeja",
-     "price": 2.95,
-     "size": 200,
-     "url": "https://tienda.mercadona.es/product/27548/elaborado-merluza-langostino-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/9add643053c6c2b1f51a79211c2bcdfb.jpg?fit=crop&h=300&w=300",
-     "category": "Pescado fresco > Otros"
-    },
-    {
-     "id": "63159",
-     "name": "Figuritas de merluza empanadas Hacendado ultracongeladas · Paquete",
-     "price": 3.75,
+     "id": "63151",
+     "name": "Palitos de merluza a la romana Hacendado ultracongelados · Paquete",
+     "price": 2.8,
      "size": 500,
-     "url": "https://tienda.mercadona.es/product/63159/figuritas-merluza-empanadas-hacendado-ultracongeladas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/7f7e0f9d7f09a4d5d07ae4a2d4da46fd.jpg?fit=crop&h=300&w=300",
+     "url": "https://tienda.mercadona.es/product/63151/palitos-merluza-romana-hacendado-ultracongelados-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/290b68c3ef4f27d675f10fed5a944afa.jpg?fit=crop&h=300&w=300",
      "category": "Pescado congelado > Pescado rebozado congelado"
+    },
+    {
+     "id": "63101",
+     "name": "Filetes de merluza al huevo Hacendado ultracongelados · Paquete",
+     "price": 5.05,
+     "size": 600,
+     "url": "https://tienda.mercadona.es/product/63101/filetes-merluza-huevo-hacendado-ultracongelados-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=300&w=300",
+     "category": "Pescado congelado > Pescado rebozado congelado"
+    },
+    {
+     "id": "62113",
+     "name": "Lomos y centros de merluza del Cabo Hacendado ultracongelados · Caja",
+     "price": 4.9,
+     "size": 400,
+     "url": "https://tienda.mercadona.es/product/62113/lomos-centros-merluza-cabo-hacendado-ultracongelados-caja",
+     "thumb": "https://prod-mercadona.imgix.net/images/9f123401c254bda557489bd5ae173584.jpg?fit=crop&h=300&w=300",
+     "category": "Pescado congelado > Pescado congelado"
     }
    ]
   },
   "salmon": {
-   "id": "81649.1",
-   "name": "Salmón a rodajas · Pieza",
-   "price": 29.57,
-   "size": 2700,
-   "url": "https://tienda.mercadona.es/product/81649.1/salmon-rodajas-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/efde699df9d548c2e8a9887daf63cd7a.jpg?fit=crop&h=300&w=300",
+   "id": "87205",
+   "name": "Rodaja de salmón · Bandeja",
+   "price": 7,
+   "size": 350,
+   "url": "https://tienda.mercadona.es/product/87205/rodaja-salmon-bandeja",
+   "thumb": "https://prod-mercadona.imgix.net/images/5e79ea62e9617114a5871d9e62e087aa.jpg?fit=crop&h=300&w=300",
    "category": "Pescado fresco > Salmón",
    "alternatives": [
-    {
-     "id": "87205",
-     "name": "Rodaja de salmón · Bandeja",
-     "price": 7,
-     "size": 350,
-     "url": "https://tienda.mercadona.es/product/87205/rodaja-salmon-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/5e79ea62e9617114a5871d9e62e087aa.jpg?fit=crop&h=300&w=300",
-     "category": "Pescado fresco > Salmón"
-    },
-    {
-     "id": "87208",
-     "name": "Filete de salmón · Bandeja",
-     "price": 17.85,
-     "size": 850,
-     "url": "https://tienda.mercadona.es/product/87208/medio-salmon-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/da236aaa8e3f4a760d95f063ec5a1638.jpeg?fit=crop&h=300&w=300",
-     "category": "Pescado fresco > Salmón"
-    },
     {
      "id": "87204",
      "name": "Porción de  salmón · Bandeja",
@@ -839,43 +840,43 @@
      "category": "Pescado fresco > Salmón"
     },
     {
-     "id": "53445",
-     "name": "Salmón ahumado Hacendado · Pack-2",
-     "price": 10.8,
-     "size": 300,
-     "url": "https://tienda.mercadona.es/product/53445/salmon-ahumado-hacendado-pack-2",
-     "thumb": "https://prod-mercadona.imgix.net/images/e1ad29ad8ea58c630d90ae813bb2f42d.jpg?fit=crop&h=300&w=300",
+     "id": "26749",
+     "name": "Medallones de salmón Hacendado cocinar congelados · Paquete",
+     "price": 3.95,
+     "size": 250,
+     "url": "https://tienda.mercadona.es/product/26749/medallones-salmon-hacendado-cocinar-congelados-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/c7d4d7ef02ddcdb3b08fed4ebae950c8.jpg?fit=crop&h=300&w=300",
+     "category": "Pescado congelado > Pescado congelado"
+    },
+    {
+     "id": "24511",
+     "name": "Lomos de salmón sin piel Hacendado congelado · Paquete",
+     "price": 5.95,
+     "size": 250,
+     "url": "https://tienda.mercadona.es/product/24511/lomos-salmon-sin-piel-sin-espinas-hacendado-congelado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/d276498ce484c1c8c3b247d77589e49d.jpg?fit=crop&h=300&w=300",
+     "category": "Pescado congelado > Pescado congelado"
+    },
+    {
+     "id": "53446",
+     "name": "Salmón marinado Hacendado · Paquete",
+     "price": 3.5,
+     "size": 80,
+     "url": "https://tienda.mercadona.es/product/53446/salmon-marinado-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/39224e678bfa489afb1e5357982d7148.jpg?fit=crop&h=300&w=300",
      "category": "Salazones y ahumados > Ahumados"
     }
    ]
   },
   "bacalao": {
-   "id": "81204.1",
-   "name": "Bacalao a rodajas · Pieza",
-   "price": 29.78,
-   "size": 2300,
-   "url": "https://tienda.mercadona.es/product/81204.1/bacalao-rodajas-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/7fe85bfd4b3c74ef53e335e439b06b4e.jpg?fit=crop&h=300&w=300",
-   "category": "Pescado fresco > Bacalao",
+   "id": "63425",
+   "name": "Buñuelos de bacalao Hacendado ultracongelados · Paquete",
+   "price": 4.75,
+   "size": 400,
+   "url": "https://tienda.mercadona.es/product/63425/bunuelos-bacalao-hacendado-ultracongelados-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/b5708a2f75c5db5db4300e6fa65db783.jpeg?fit=crop&h=300&w=300",
+   "category": "Pescado congelado > Pescado rebozado congelado",
    "alternatives": [
-    {
-     "id": "63425",
-     "name": "Buñuelos de bacalao Hacendado ultracongelados · Paquete",
-     "price": 4.75,
-     "size": 400,
-     "url": "https://tienda.mercadona.es/product/63425/bunuelos-bacalao-hacendado-ultracongelados-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/b5708a2f75c5db5db4300e6fa65db783.jpeg?fit=crop&h=300&w=300",
-     "category": "Pescado congelado > Pescado rebozado congelado"
-    },
-    {
-     "id": "81204.3",
-     "name": "Bacalao media pieza a rodajas · 1/2 Pieza",
-     "price": 18.26,
-     "size": 1410,
-     "url": "https://tienda.mercadona.es/product/81204.3/bacalao-media-pieza-rodajas-12-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/88a3161d919a5e1282cc5b82fd00ca26.jpg?fit=crop&h=300&w=300",
-     "category": "Pescado fresco > Bacalao"
-    },
     {
      "id": "62050",
      "name": "Lomo de bacalao MareDeus ultracongelado · Paquete",
@@ -884,6 +885,15 @@
      "url": "https://tienda.mercadona.es/product/62050/lomo-bacalao-maredeus-ultracongelado-punto-sal-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/aa68741e624d6f99903465294f3de2aa.jpg?fit=crop&h=300&w=300",
      "category": "Pescado congelado > Pescado congelado"
+    },
+    {
+     "id": "87211",
+     "name": "Bacalao al punto de sal descongelado · Bandeja",
+     "price": 9.5,
+     "size": 450,
+     "url": "https://tienda.mercadona.es/product/87211/bacalao-punto-sal-descongelado-con-agua-anadida-bandeja",
+     "thumb": "https://prod-mercadona.imgix.net/images/ca53c73b6afd0d72635caaec9e3e3420.jpeg?fit=crop&h=300&w=300",
+     "category": "Pescado fresco > Bacalao"
     },
     {
      "id": "26995",
@@ -895,25 +905,43 @@
      "category": "Salazones y ahumados > Salazones"
     },
     {
-     "id": "87211",
-     "name": "Bacalao al punto de sal descongelado · Bandeja",
-     "price": 9.5,
-     "size": 450,
-     "url": "https://tienda.mercadona.es/product/87211/bacalao-punto-sal-descongelado-con-agua-anadida-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/ca53c73b6afd0d72635caaec9e3e3420.jpeg?fit=crop&h=300&w=300",
+     "id": "81204.4",
+     "name": "Bacalao media pieza abierto en libro sin cabeza y sin espina · 1/2 Pieza",
+     "price": 18.26,
+     "size": 1410,
+     "url": "https://tienda.mercadona.es/product/81204.4/bacalao-media-pieza-abierto-libro-sin-cabeza-sin-espina-12-pieza",
+     "thumb": "https://prod-mercadona.imgix.net/images/31d725c7f08f131a5e70c3677dc5e69b.jpg?fit=crop&h=300&w=300",
+     "category": "Pescado fresco > Bacalao"
+    },
+    {
+     "id": "81204.2",
+     "name": "Bacalao abierto en libro sin cabeza y sin espina · Pieza",
+     "price": 29.78,
+     "size": 2300,
+     "url": "https://tienda.mercadona.es/product/81204.2/bacalao-abierto-libro-sin-cabeza-sin-espina-pieza",
+     "thumb": "https://prod-mercadona.imgix.net/images/144bdf77d235c7a4ca6d525717c6214e.jpg?fit=crop&h=300&w=300",
      "category": "Pescado fresco > Bacalao"
     }
    ]
   },
   "jamon_serrano": {
-   "id": "58293",
-   "name": "Jamón serrano Incarlopsa · Pieza",
-   "price": 65,
-   "size": 7500,
-   "url": "https://tienda.mercadona.es/product/58293/jamon-serrano-incarlopsa-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/7d4f3e6af6728a424824294cc851940a.jpg?fit=crop&h=300&w=300",
+   "id": "59151",
+   "name": "Jamón serrano Incarlopsa lonchas extrafinas · Paquete",
+   "price": 2.45,
+   "size": 120,
+   "url": "https://tienda.mercadona.es/product/59151/jamon-serrano-incarlopsa-lonchas-extrafinas-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/11ff0193c6a7a6eed562be9d9e933fce.jpg?fit=crop&h=300&w=300",
    "category": "Jamón serrano > Jamón serrano",
    "alternatives": [
+    {
+     "id": "8556",
+     "name": "Jamón serrano cortado a máquina · Paquete",
+     "price": 4.75,
+     "size": 190,
+     "url": "https://tienda.mercadona.es/product/8556/jamon-serrano-cortado-maquina-envasado-vacio-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/6d26633366edf93e61f6a53062aaa0df.jpg?fit=crop&h=300&w=300",
+     "category": "Jamón serrano > Jamón serrano"
+    },
     {
      "id": "59124",
      "name": "Jamón serrano Incarlopsa lonchas · Paquete",
@@ -921,15 +949,6 @@
      "size": 240,
      "url": "https://tienda.mercadona.es/product/59124/jamon-serrano-incarlopsa-lonchas-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/8cd51bd549863aafc57f255abea88529.jpg?fit=crop&h=300&w=300",
-     "category": "Jamón serrano > Jamón serrano"
-    },
-    {
-     "id": "18353",
-     "name": "Jamón serrano Jamcal lonchas · Paquete",
-     "price": 1,
-     "size": 50,
-     "url": "https://tienda.mercadona.es/product/18353/jamon-serrano-jamcal-lonchas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/1e6eca141c08c25de0ed6d32991b9c2d.jpg?fit=crop&h=300&w=300",
      "category": "Jamón serrano > Jamón serrano"
     },
     {
@@ -942,52 +961,34 @@
      "category": "Jamón serrano > Jamón serrano"
     },
     {
-     "id": "59151",
-     "name": "Jamón serrano Incarlopsa lonchas extrafinas · Paquete",
-     "price": 2.45,
-     "size": 120,
-     "url": "https://tienda.mercadona.es/product/59151/jamon-serrano-incarlopsa-lonchas-extrafinas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/11ff0193c6a7a6eed562be9d9e933fce.jpg?fit=crop&h=300&w=300",
+     "id": "58274",
+     "name": "Jamón serrano reserva cortado a tapas · Paquete",
+     "price": 3.6,
+     "size": 90,
+     "url": "https://tienda.mercadona.es/product/58274/jamon-serrano-reserva-cortado-cuchillo-envasado-vacio-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/fa034a182cb15b78ecb44918885d7c64.jpg?fit=crop&h=300&w=300",
      "category": "Jamón serrano > Jamón serrano"
     },
     {
-     "id": "8556",
-     "name": "Jamón serrano cortado a máquina · Paquete",
-     "price": 4.75,
-     "size": 190,
-     "url": "https://tienda.mercadona.es/product/8556/jamon-serrano-cortado-maquina-envasado-vacio-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/6d26633366edf93e61f6a53062aaa0df.jpg?fit=crop&h=300&w=300",
+     "id": "18353",
+     "name": "Jamón serrano Jamcal lonchas · Paquete",
+     "price": 1,
+     "size": 50,
+     "url": "https://tienda.mercadona.es/product/18353/jamon-serrano-jamcal-lonchas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/1e6eca141c08c25de0ed6d32991b9c2d.jpg?fit=crop&h=300&w=300",
      "category": "Jamón serrano > Jamón serrano"
     }
    ]
   },
   "jamon_cocido": {
-   "id": "59256",
-   "name": "Jamón cocido Hacendado lonchas · Paquete",
-   "price": 2.25,
-   "size": 200,
-   "url": "https://tienda.mercadona.es/product/59256/jamon-cocido-hacendado-lonchas-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/973fb20b791a8951db36c7513a22ed40.jpg?fit=crop&h=300&w=300",
+   "id": "13988",
+   "name": "Jamón cocido sándwich Hacendado lonchas · Paquete",
+   "price": 1.95,
+   "size": 250,
+   "url": "https://tienda.mercadona.es/product/13988/jamon-cocido-sandwich-hacendado-lonchas-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/e6c15c62c66813c46d54d02f26fba2ea.jpg?fit=crop&h=300&w=300",
    "category": "Aves y jamón cocido > Jamón cocido",
    "alternatives": [
-    {
-     "id": "16395",
-     "name": "Jamón cocido Hacendado finas lonchas",
-     "price": 3.35,
-     "size": 450,
-     "url": "https://tienda.mercadona.es/product/16395/jamon-cocido-hacendado-finas-lonchas",
-     "thumb": "https://prod-mercadona.imgix.net/images/53c4e49fa2862e79fdb3d941ac7c1ef9.jpg?fit=crop&h=300&w=300",
-     "category": "Aves y jamón cocido > Jamón cocido"
-    },
-    {
-     "id": "13988",
-     "name": "Jamón cocido sándwich Hacendado lonchas · Paquete",
-     "price": 1.95,
-     "size": 250,
-     "url": "https://tienda.mercadona.es/product/13988/jamon-cocido-sandwich-hacendado-lonchas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/e6c15c62c66813c46d54d02f26fba2ea.jpg?fit=crop&h=300&w=300",
-     "category": "Aves y jamón cocido > Jamón cocido"
-    },
     {
      "id": "16352",
      "name": "Jamón cocido jugoso Hacendado lonchas · Paquete",
@@ -995,6 +996,15 @@
      "size": 250,
      "url": "https://tienda.mercadona.es/product/16352/jamon-cocido-jugoso-hacendado-lonchas-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/19ad97cd414b1842a50c9f72d1e8da99.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y jamón cocido > Jamón cocido"
+    },
+    {
+     "id": "59256",
+     "name": "Jamón cocido Hacendado lonchas · Paquete",
+     "price": 2.25,
+     "size": 200,
+     "url": "https://tienda.mercadona.es/product/59256/jamon-cocido-hacendado-lonchas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/973fb20b791a8951db36c7513a22ed40.jpg?fit=crop&h=300&w=300",
      "category": "Aves y jamón cocido > Jamón cocido"
     },
     {
@@ -1014,61 +1024,70 @@
      "url": "https://tienda.mercadona.es/product/59164/jamon-cocido-braseado-noel-lonchas-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/ad28305fe300da29a67a967e556427ca.jpg?fit=crop&h=300&w=300",
      "category": "Aves y jamón cocido > Jamón cocido"
+    },
+    {
+     "id": "86238",
+     "name": "Jamón cocido extra cortado a mano Noel · Paquete",
+     "price": 3.35,
+     "size": 250,
+     "url": "https://tienda.mercadona.es/product/86238/lacon-cortado-mano-noel-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/41cedd6fc6392ac4f5a60e26790c8451.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y jamón cocido > Jamón cocido"
     }
    ]
   },
   "pavo_lonchas": {
-   "id": "59218",
-   "name": "Jamón de pavo Hacendado · Pieza",
+   "id": "5710",
+   "name": "Pechuga 92% pavo Hacendado lonchas · Paquete",
    "price": 2.85,
-   "size": 500,
-   "url": "https://tienda.mercadona.es/product/59218/jamon-pavo-hacendado-pieza",
-   "thumb": "https://prod-mercadona.imgix.net/images/0a4b8f824e5ea4032abcee4e75a9092a.jpg?fit=crop&h=300&w=300",
+   "size": 200,
+   "url": "https://tienda.mercadona.es/product/5710/pechuga-pavo-92-hacendado-lonchas-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/84d531a5c228105c5f64d35feba6d5e3.jpg?fit=crop&h=300&w=300",
    "category": "Aves y jamón cocido > Pavo y otros",
    "alternatives": [
     {
-     "id": "22430",
-     "name": "Maxi pavo Hacendado finas lonchas · Paquete",
-     "price": 3.05,
-     "size": 400,
-     "url": "https://tienda.mercadona.es/product/22430/maxi-pavo-hacendado-finas-lonchas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/18d308abcd2a05dcec6ee3cc012d6e86.jpg?fit=crop&h=300&w=300",
-     "category": "Aves y jamón cocido > Pavo y otros"
-    },
-    {
-     "id": "5710",
-     "name": "Pechuga 92% pavo Hacendado lonchas · Paquete",
-     "price": 2.85,
-     "size": 200,
-     "url": "https://tienda.mercadona.es/product/5710/pechuga-pavo-92-hacendado-lonchas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/84d531a5c228105c5f64d35feba6d5e3.jpg?fit=crop&h=300&w=300",
-     "category": "Aves y jamón cocido > Pavo y otros"
-    },
-    {
-     "id": "12282",
-     "name": "Lomo de pavo Hacendado lonchas",
-     "price": 3.2,
-     "size": 125,
-     "url": "https://tienda.mercadona.es/product/12282/lomo-pavo-hacendado-lonchas",
-     "thumb": "https://prod-mercadona.imgix.net/images/ab4213a1cad06e813609fe4589af0837.jpg?fit=crop&h=300&w=300",
-     "category": "Embutido curado > Lomo y otros"
-    },
-    {
-     "id": "11969",
-     "name": "Mortadela de pavo Hacendado finas lonchas · Paquete",
-     "price": 1.5,
-     "size": 200,
-     "url": "https://tienda.mercadona.es/product/11969/mortadela-pavo-hacendado-finas-lonchas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/3829a2027b28e1445d76d6d4c7fcfc12.jpeg?fit=crop&h=300&w=300",
-     "category": "Chopped y mortadela > Mortadela"
-    },
-    {
-     "id": "56619",
-     "name": "Jamón de pavo Hacendado finas lonchas · Paquete",
-     "price": 1.9,
+     "id": "17775",
+     "name": "Pechuga de pavo Hacendado finas lonchas · Paquete",
+     "price": 2.3,
      "size": 225,
-     "url": "https://tienda.mercadona.es/product/56619/jamon-pavo-hacendado-finas-lonchas-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/b7691fb2718bc66ad695bb0454823efe.jpg?fit=crop&h=300&w=300",
+     "url": "https://tienda.mercadona.es/product/17775/pechuga-pavo-hacendado-finas-lonchas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/95fd68946c67b47e452b5b3537ec89c5.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y jamón cocido > Pavo y otros"
+    },
+    {
+     "id": "59283",
+     "name": "Pechuga de pavo Noel lonchas muy finas · Paquete",
+     "price": 2.45,
+     "size": 200,
+     "url": "https://tienda.mercadona.es/product/59283/pechuga-pavo-noel-lonchas-muy-finas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/918213955ad9fe95742e4abe7665f787.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y jamón cocido > Pavo y otros"
+    },
+    {
+     "id": "67972",
+     "name": "Pechuga de pavo Hacendado finas lonchas · Pack-2",
+     "price": 3.95,
+     "size": 400,
+     "url": "https://tienda.mercadona.es/product/67972/pechuga-pavo-hacendado-finas-lonchas-pack-2",
+     "thumb": "https://prod-mercadona.imgix.net/images/2458f24e9a065c2a16a09cae37257260.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y jamón cocido > Pavo y otros"
+    },
+    {
+     "id": "21646",
+     "name": "Pechuga pavo cocida extrafino Hacendado lonchas · Paquete",
+     "price": 2.85,
+     "size": 150,
+     "url": "https://tienda.mercadona.es/product/21646/pechuga-pavo-cocida-extrafino-hacendado-lonchas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/19ac430f307d92c7d356cb8a413d1839.jpg?fit=crop&h=300&w=300",
+     "category": "Aves y jamón cocido > Pavo y otros"
+    },
+    {
+     "id": "60243",
+     "name": "Pechuga de pavo reducido en sal Hacendado finas lonchas · Paquete",
+     "price": 2.5,
+     "size": 225,
+     "url": "https://tienda.mercadona.es/product/60243/pechuga-pavo-bajo-sal-hacendado-finas-lonchas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/49d21ca3fcddbcc679eb677e61337d1b.jpg?fit=crop&h=300&w=300",
      "category": "Aves y jamón cocido > Pavo y otros"
     }
    ]
@@ -1092,21 +1111,21 @@
      "category": "Bacón y salchichas > Bacón"
     },
     {
-     "id": "59170",
-     "name": "Bacón ahumado sin corteza Monells · Pieza",
-     "price": 2.68,
-     "size": 310,
-     "url": "https://tienda.mercadona.es/product/59170/bacon-ahumado-sin-corteza-monells-pieza",
-     "thumb": "https://prod-mercadona.imgix.net/images/609eec641d2ed8c2f8e646c6aea56d4c.jpg?fit=crop&h=300&w=300",
-     "category": "Bacón y salchichas > Bacón"
-    },
-    {
      "id": "18444",
      "name": "Bacón ahumado natural Oscar Mayer lonchas · Paquete",
      "price": 2.35,
      "size": 160,
      "url": "https://tienda.mercadona.es/product/18444/bacon-ahumado-natural-oscar-mayer-lonchas-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/50cacaf533085073aba9c6951979751f.jpg?fit=crop&h=300&w=300",
+     "category": "Bacón y salchichas > Bacón"
+    },
+    {
+     "id": "59170",
+     "name": "Bacón ahumado sin corteza Monells · Pieza",
+     "price": 2.68,
+     "size": 310,
+     "url": "https://tienda.mercadona.es/product/59170/bacon-ahumado-sin-corteza-monells-pieza",
+     "thumb": "https://prod-mercadona.imgix.net/images/609eec641d2ed8c2f8e646c6aea56d4c.jpg?fit=crop&h=300&w=300",
      "category": "Bacón y salchichas > Bacón"
     },
     {
@@ -1121,30 +1140,48 @@
    ]
   },
   "queso_lonchas": {
-   "id": "50385",
-   "name": "Queso lonchas tierno mezcla Hacendado · Paquete",
-   "price": 2.49,
-   "size": 250,
-   "url": "https://tienda.mercadona.es/product/50385/queso-lonchas-tierno-mezcla-entrepinares-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/64c70ea48d0a710780a67971c70f7e54.jpg?fit=crop&h=300&w=300",
+   "id": "50543",
+   "name": "Queso lonchas tierno de vaca Hacendado · Paquete",
+   "price": 2.5,
+   "size": 300,
+   "url": "https://tienda.mercadona.es/product/50543/queso-lonchas-tierno-vaca-entrepinares-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/7fd31869c4e06d13baac0bdc8970e2e5.jpg?fit=crop&h=300&w=300",
    "category": "Queso lonchas, rallado y en porciones > Queso lonchas",
    "alternatives": [
     {
-     "id": "50148",
-     "name": "Queso lonchas semicurado mezcla Hacendado · Paquete",
-     "price": 2.57,
-     "size": 210,
-     "url": "https://tienda.mercadona.es/product/50148/queso-lonchas-semicurado-mezcla-entrepinares-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/717ff26ca49d56dd956fad414961c020.jpg?fit=crop&h=300&w=300",
+     "id": "50545",
+     "name": "Queso lonchas cremoso de vaca Hacendado · Paquete",
+     "price": 2.8,
+     "size": 300,
+     "url": "https://tienda.mercadona.es/product/50545/queso-lonchas-cremoso-havarti-vaca-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/25fe53131f87dfeba20008ce868de29c.jpg?fit=crop&h=300&w=300",
      "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
     },
     {
-     "id": "50151",
-     "name": "Queso lonchas de oveja Hacendado · Paquete",
-     "price": 3.02,
-     "size": 210,
-     "url": "https://tienda.mercadona.es/product/50151/queso-lonchas-oveja-entrepinares-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/42c41d47391b7f165e9c19f13a2ab40d.jpg?fit=crop&h=300&w=300",
+     "id": "50385",
+     "name": "Queso lonchas tierno mezcla Hacendado · Paquete",
+     "price": 2.49,
+     "size": 250,
+     "url": "https://tienda.mercadona.es/product/50385/queso-lonchas-tierno-mezcla-entrepinares-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/64c70ea48d0a710780a67971c70f7e54.jpg?fit=crop&h=300&w=300",
+     "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
+    },
+    {
+     "id": "50459",
+     "name": "Queso lonchas edam de vaca Holland Corona · Paquete",
+     "price": 2,
+     "size": 300,
+     "url": "https://tienda.mercadona.es/product/50459/queso-lonchas-edam-vaca-holland-corona-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/f30a5f14122dc2e4ede36df9dc80a881.jpg?fit=crop&h=300&w=300",
+     "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
+    },
+    {
+     "id": "50546",
+     "name": "Queso lonchas cremoso light de vaca Hacendado · Paquete",
+     "price": 2.9,
+     "size": 300,
+     "url": "https://tienda.mercadona.es/product/50546/queso-lonchas-cremoso-light-havarti-vaca-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/bf40cbb31507eaf48225f29f65c325b9.jpg?fit=crop&h=300&w=300",
      "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
     },
     {
@@ -1154,24 +1191,6 @@
      "size": 220,
      "url": "https://tienda.mercadona.es/product/50153/queso-lonchas-cabra-entrepinares-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/83876b302b8f4bafde5749db67fdfc0b.jpg?fit=crop&h=300&w=300",
-     "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
-    },
-    {
-     "id": "51182",
-     "name": "Queso lonchas fundido suave mezcla Hacendado · Paquete",
-     "price": 2.35,
-     "size": 555,
-     "url": "https://tienda.mercadona.es/product/51182/queso-lonchas-fundido-suave-mezcla-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/d6d49f98b5ad0ebd7d7604ab48e47a8c.jpg?fit=crop&h=300&w=300",
-     "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
-    },
-    {
-     "id": "50371",
-     "name": "Queso lonchas fundido sándwich mezcla Hacendado · Paquete",
-     "price": 1.1,
-     "size": 200,
-     "url": "https://tienda.mercadona.es/product/50371/queso-lonchas-fundido-sandwich-mezcla-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/466833190111f32b6901258f9ebe4265.jpg?fit=crop&h=300&w=300",
      "category": "Queso lonchas, rallado y en porciones > Queso lonchas"
     }
    ]
@@ -1205,15 +1224,6 @@
      "category": "Queso lonchas, rallado y en porciones > Queso rallado"
     },
     {
-     "id": "23622",
-     "name": "Queso rallado especial fundir mezcla Hacendado · Paquete",
-     "price": 1.9,
-     "size": 400,
-     "url": "https://tienda.mercadona.es/product/23622/queso-rallado-especial-fundir-mezcla-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/aa127a068121be5a0a5dfd543ddb2fa0.jpg?fit=crop&h=300&w=300",
-     "category": "Queso lonchas, rallado y en porciones > Queso rallado"
-    },
-    {
      "id": "23621",
      "name": "Queso rallado especial fundir mezcla Hacendado · Paquete",
      "price": 1.1,
@@ -1238,6 +1248,15 @@
      "size": 150,
      "url": "https://tienda.mercadona.es/product/51236/queso-rallado-sin-lactosa-vaca-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/1789e099c343b7a0eda70dd1a38a9c63.jpg?fit=crop&h=300&w=300",
+     "category": "Queso lonchas, rallado y en porciones > Queso rallado"
+    },
+    {
+     "id": "23622",
+     "name": "Queso rallado especial fundir mezcla Hacendado · Paquete",
+     "price": 1.9,
+     "size": 400,
+     "url": "https://tienda.mercadona.es/product/23622/queso-rallado-especial-fundir-mezcla-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/aa127a068121be5a0a5dfd543ddb2fa0.jpg?fit=crop&h=300&w=300",
      "category": "Queso lonchas, rallado y en porciones > Queso rallado"
     }
    ]
@@ -1318,13 +1337,13 @@
      "category": "Pan de horno > Barra de pan"
     },
     {
-     "id": "83203.1",
-     "name": "3 Barras de pan",
-     "price": 1.19,
+     "id": "83560",
+     "name": "Barra de pan tradicional · Paquete",
+     "price": 1.28,
      "size": 1,
-     "url": "https://tienda.mercadona.es/product/83203.1/3-barras-pan",
-     "thumb": "https://prod-mercadona.imgix.net/images/b2885ac23e9ad6ffc406882e24291809.jpeg?fit=crop&h=300&w=300",
-     "category": "Pan de horno > Barra de pan"
+     "url": "https://tienda.mercadona.es/product/83560/barra-pan-tradicional-cortada-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/25c4bc7eecd7bb503f2339aac9059af4.jpg?fit=crop&h=300&w=300",
+     "category": "Pan de molde y otras especialidades > Otros panes"
     }
    ]
   },
@@ -1338,21 +1357,30 @@
    "category": "Pan de molde y otras especialidades > Pan de molde",
    "alternatives": [
     {
-     "id": "83867",
-     "name": "Pan de molde blanco familiar Hacendado · Paquete",
-     "price": 1.15,
-     "size": 820,
-     "url": "https://tienda.mercadona.es/product/83867/pan-molde-blanco-familiar-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/f26045084b08d8792979df13779e97d3.jpeg?fit=crop&h=300&w=300",
-     "category": "Pan de molde y otras especialidades > Pan de molde"
-    },
-    {
      "id": "82328",
      "name": "Pan de molde 100% integral Hacendado · Paquete",
      "price": 0.9,
      "size": 460,
      "url": "https://tienda.mercadona.es/product/82328/pan-molde-100-integral-hacendado-0-mg-0-azucares-anadidos-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/4257949726923aaa0bbdef3e1e90f753.jpg?fit=crop&h=300&w=300",
+     "category": "Pan de molde y otras especialidades > Pan de molde"
+    },
+    {
+     "id": "86750",
+     "name": "Pan de molde cereales sin gluten Hacendado · Paquete",
+     "price": 2.74,
+     "size": 470,
+     "url": "https://tienda.mercadona.es/product/86750/pan-molde-cereales-sin-gluten-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/a8c90aab11776a9f62a00b0a10634ad7.jpg?fit=crop&h=300&w=300",
+     "category": "Pan de molde y otras especialidades > Pan de molde"
+    },
+    {
+     "id": "82322",
+     "name": "Pan de molde blanco sin corteza Hacendado · Paquete",
+     "price": 1.05,
+     "size": 450,
+     "url": "https://tienda.mercadona.es/product/82322/pan-molde-blanco-sin-corteza-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/7931704a16106081eb2e0d81c340306c.jpg?fit=crop&h=300&w=300",
      "category": "Pan de molde y otras especialidades > Pan de molde"
     },
     {
@@ -1365,22 +1393,13 @@
      "category": "Pan de molde y otras especialidades > Otros panes"
     },
     {
-     "id": "83886",
-     "name": "Pan de molde 100% integral familiar Hacendado · Paquete",
-     "price": 1.15,
-     "size": 820,
-     "url": "https://tienda.mercadona.es/product/83886/pan-molde-100-integral-familiar-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/bb4bc87dd5cde05303b1e222c2131fb0.jpg?fit=crop&h=300&w=300",
+     "id": "35711",
+     "name": "Pan de molde sin gluten blanco Hacendado · Paquete",
+     "price": 2.74,
+     "size": 500,
+     "url": "https://tienda.mercadona.es/product/35711/pan-molde-sin-gluten-blanco-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/4b2fd6f2a42c76ccb71db2be51fa7ec5.jpg?fit=crop&h=300&w=300",
      "category": "Pan de molde y otras especialidades > Pan de molde"
-    },
-    {
-     "id": "82302",
-     "name": "Pan de molde con 55% centeno Hacendado · Paquete",
-     "price": 1.35,
-     "size": 720,
-     "url": "https://tienda.mercadona.es/product/82302/pan-molde-con-55-centeno-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/f9b68761bf2dfe1c91dabcb96b64afe5.jpg?fit=crop&h=300&w=300",
-     "category": "Pan de molde y otras especialidades > Otros panes"
     }
    ]
   },
@@ -1388,45 +1407,45 @@
    "id": "80859",
    "name": "Tortillas de trigo Hacendado · Paquete",
    "price": 1.15,
-   "size": 1,
+   "size": 10,
    "url": "https://tienda.mercadona.es/product/80859/tortillas-trigo-hacendado-paquete",
    "thumb": "https://prod-mercadona.imgix.net/images/7a9d2b32b6c45163169f9b65fff244aa.jpg?fit=crop&h=300&w=300",
    "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap",
    "alternatives": [
     {
-     "id": "80870",
-     "name": "Maxi tortillas de trigo Hacendado · Paquete",
-     "price": 1.5,
-     "size": 1,
-     "url": "https://tienda.mercadona.es/product/80870/maxi-tortillas-trigo-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/9bbd7b9434f81a70eb1514d235587d1f.jpg?fit=crop&h=300&w=300",
+     "id": "17567",
+     "name": "Tortillas de trigo Delibreads 30 cm · Paquete",
+     "price": 2.35,
+     "size": 8,
+     "url": "https://tienda.mercadona.es/product/17567/tortillas-trigo-delibreads-30-cm-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/b40bf5cda59aa0d7c49fe769c6ad3314.jpg?fit=crop&h=300&w=300",
      "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap"
     },
     {
      "id": "80942",
      "name": "Tortillas de trigo integrales Hacendado · Paquete",
      "price": 1.55,
-     "size": 1,
+     "size": 10,
      "url": "https://tienda.mercadona.es/product/80942/tortillas-trigo-integrales-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/d1fdbb3de0ddaacc3f3f76526fd2bc4a.jpg?fit=crop&h=300&w=300",
+     "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap"
+    },
+    {
+     "id": "80870",
+     "name": "Maxi tortillas de trigo Hacendado · Paquete",
+     "price": 1.5,
+     "size": 6,
+     "url": "https://tienda.mercadona.es/product/80870/maxi-tortillas-trigo-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/9bbd7b9434f81a70eb1514d235587d1f.jpg?fit=crop&h=300&w=300",
      "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap"
     },
     {
      "id": "80939",
      "name": "Mini tortillas de trigo Hacendado · Paquete",
      "price": 1.65,
-     "size": 1,
+     "size": 12,
      "url": "https://tienda.mercadona.es/product/80939/mini-tortillas-trigo-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/bfd4d4b76e3f4a1010dca604777e65b9.jpg?fit=crop&h=300&w=300",
-     "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap"
-    },
-    {
-     "id": "17567",
-     "name": "Tortillas de trigo Delibreads 30 cm · Paquete",
-     "price": 2.35,
-     "size": 1,
-     "url": "https://tienda.mercadona.es/product/17567/tortillas-trigo-delibreads-30-cm-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/b40bf5cda59aa0d7c49fe769c6ad3314.jpg?fit=crop&h=300&w=300",
      "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap"
     }
    ]
@@ -1435,31 +1454,22 @@
    "id": "14378",
    "name": "Pan de pita Mission · Paquete",
    "price": 2,
-   "size": 1,
+   "size": 5,
    "url": "https://tienda.mercadona.es/product/14378/pan-pita-mission-paquete",
    "thumb": "https://prod-mercadona.imgix.net/images/4af89bf80e15b2a11b57f8e001013cc4.jpg?fit=crop&h=300&w=300",
    "category": "Pan de molde y otras especialidades > Pan de hamburguesa y wrap",
    "alternatives": []
   },
   "masa_pizza": {
-   "id": "13985",
-   "name": "Masa fresca pizza Hacendado",
-   "price": 2.2,
+   "id": "52454",
+   "name": "Masa pizza fresca familiar Hacendado · Paquete",
+   "price": 1.5,
    "size": 1,
-   "url": "https://tienda.mercadona.es/product/13985/masa-fresca-pizza-hacendado",
-   "thumb": "https://prod-mercadona.imgix.net/images/d5ba64cc5c3fccf0c4575b61fb71040d.jpg?fit=crop&h=300&w=300",
+   "url": "https://tienda.mercadona.es/product/52454/masa-pizza-fresca-familiar-hacendado-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/db3376bba214345ed6e40be45311ff6f.jpg?fit=crop&h=300&w=300",
    "category": "Pizzas > Base de pizza",
    "alternatives": [
     {
-     "id": "52454",
-     "name": "Masa pizza fresca familiar Hacendado · Paquete",
-     "price": 1.5,
-     "size": 1,
-     "url": "https://tienda.mercadona.es/product/52454/masa-pizza-fresca-familiar-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/db3376bba214345ed6e40be45311ff6f.jpg?fit=crop&h=300&w=300",
-     "category": "Pizzas > Base de pizza"
-    },
-    {
      "id": "63339",
      "name": "Pizza masa fina jamón Hacendado ultracongelada",
      "price": 2.5,
@@ -1494,6 +1504,15 @@
      "url": "https://tienda.mercadona.es/product/22649/pizza-masa-fina-barbacoa-hacendado-ultracongelada",
      "thumb": "https://prod-mercadona.imgix.net/images/f87d4d7fd1b67f4ff7e919b7f9e13c45.jpg?fit=crop&h=300&w=300",
      "category": "Pizzas > Pizzas congeladas"
+    },
+    {
+     "id": "63340",
+     "name": "Pizza masa fina 4 quesos Hacendado ultracongelada",
+     "price": 2.5,
+     "size": 1,
+     "url": "https://tienda.mercadona.es/product/63340/pizza-masa-fina-4-quesos-hacendado-ultracongelada",
+     "thumb": "https://prod-mercadona.imgix.net/images/c97a0c3ec9130986d83e8b1bc93f23e8.jpg?fit=crop&h=300&w=300",
+     "category": "Pizzas > Pizzas"
     }
    ]
   },
@@ -1501,48 +1520,21 @@
    "id": "63464",
    "name": "Masa fresca quebrada brisa Hacendado",
    "price": 2.2,
-   "size": 1,
+   "size": 2,
    "url": "https://tienda.mercadona.es/product/63464/masa-fresca-quebrada-brisa-hacendado-pack-2",
    "thumb": "https://prod-mercadona.imgix.net/images/65cb5d0e6a0635b90a515ba1c85324ba.jpeg?fit=crop&h=300&w=300",
    "category": "Harina y preparado repostería > Masas",
    "alternatives": []
   },
   "huevos": {
-   "id": "30167",
-   "name": "Huevos · Paquete",
-   "price": 5.25,
-   "size": 24,
-   "url": "https://tienda.mercadona.es/product/30167/huevos-tamanos-diferentes-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/3a0b8ec917c50794e9aed65bbfea018b.jpg?fit=crop&h=300&w=300",
+   "id": "31505",
+   "name": "Huevos medianos M · Paquete",
+   "price": 2.85,
+   "size": 12,
+   "url": "https://tienda.mercadona.es/product/31505/huevos-medianos-m-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/96ba986bc89d7298da0a7605824227a9.jpg?fit=crop&h=300&w=300",
    "category": "Huevos > Huevos",
    "alternatives": [
-    {
-     "id": "31010",
-     "name": "Huevos cocidos · Paquete",
-     "price": 2.2,
-     "size": 6,
-     "url": "https://tienda.mercadona.es/product/31010/huevos-cocidos-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/415028c8977c97560369dcebb4c2357d.jpg?fit=crop&h=300&w=300",
-     "category": "Huevos > Huevos"
-    },
-    {
-     "id": "31011",
-     "name": "Huevos de codorniz · Paquete",
-     "price": 1.85,
-     "size": 18,
-     "url": "https://tienda.mercadona.es/product/31011/huevos-codorniz-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/f884227376ae28f6d79420714cad0f6a.jpg?fit=crop&h=300&w=300",
-     "category": "Huevos > Huevos"
-    },
-    {
-     "id": "31505",
-     "name": "Huevos medianos M · Paquete",
-     "price": 2.85,
-     "size": 12,
-     "url": "https://tienda.mercadona.es/product/31505/huevos-medianos-m-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/96ba986bc89d7298da0a7605824227a9.jpg?fit=crop&h=300&w=300",
-     "category": "Huevos > Huevos"
-    },
     {
      "id": "31504",
      "name": "Huevos grandes L · Paquete",
@@ -1550,6 +1542,33 @@
      "size": 12,
      "url": "https://tienda.mercadona.es/product/31504/huevos-grandes-l-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/707625e3e76b36f1834d56c1ed8aa8df.jpg?fit=crop&h=300&w=300",
+     "category": "Huevos > Huevos"
+    },
+    {
+     "id": "15768",
+     "name": "Huevos de gallinas camperas · Paquete",
+     "price": 3.35,
+     "size": 12,
+     "url": "https://tienda.mercadona.es/product/15768/huevos-gallinas-camperas-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/50933500ef69e4c4cc91733c48e4e909.jpg?fit=crop&h=300&w=300",
+     "category": "Huevos > Huevos"
+    },
+    {
+     "id": "31592",
+     "name": "Huevos super grandes XL · Paquete",
+     "price": 4.3,
+     "size": 12,
+     "url": "https://tienda.mercadona.es/product/31592/huevos-super-grandes-xl-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/5bad6ba1d83593e621cdee275de8fd77.jpg?fit=crop&h=300&w=300",
+     "category": "Huevos > Huevos"
+    },
+    {
+     "id": "30167",
+     "name": "Huevos · Paquete",
+     "price": 5.25,
+     "size": 24,
+     "url": "https://tienda.mercadona.es/product/30167/huevos-tamanos-diferentes-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/3a0b8ec917c50794e9aed65bbfea018b.jpg?fit=crop&h=300&w=300",
      "category": "Huevos > Huevos"
     },
     {
@@ -1564,41 +1583,14 @@
    ]
   },
   "leche": {
-   "id": "10379",
-   "name": "Leche entera Hacendado · Pack-6",
-   "price": 5.76,
-   "size": 6000,
-   "url": "https://tienda.mercadona.es/product/10379/leche-entera-hacendado-pack-6",
-   "thumb": "https://prod-mercadona.imgix.net/images/826baa6b03a23fdb879a61445ff172ea.jpg?fit=crop&h=300&w=300",
+   "id": "10380",
+   "name": "Leche entera Hacendado · Brik",
+   "price": 0.96,
+   "size": 1000,
+   "url": "https://tienda.mercadona.es/product/10380/leche-entera-hacendado-brick",
+   "thumb": "https://prod-mercadona.imgix.net/images/18228cb88448a54fa84c48935af95351.jpg?fit=crop&h=300&w=300",
    "category": "Leche y bebidas vegetales > Leche entera",
    "alternatives": [
-    {
-     "id": "10380",
-     "name": "Leche entera Hacendado · Brik",
-     "price": 0.96,
-     "size": 1000,
-     "url": "https://tienda.mercadona.es/product/10380/leche-entera-hacendado-brick",
-     "thumb": "https://prod-mercadona.imgix.net/images/18228cb88448a54fa84c48935af95351.jpg?fit=crop&h=300&w=300",
-     "category": "Leche y bebidas vegetales > Leche entera"
-    },
-    {
-     "id": "10533",
-     "name": "Leche entera Hacendado · Pack-6",
-     "price": 9.36,
-     "size": 9000,
-     "url": "https://tienda.mercadona.es/product/10533/leche-entera-hacendado-pack-6",
-     "thumb": "https://prod-mercadona.imgix.net/images/7c62cddec66dcb9ff1517ef35563c51c.jpg?fit=crop&h=300&w=300",
-     "category": "Leche y bebidas vegetales > Leche entera"
-    },
-    {
-     "id": "10540",
-     "name": "Leche entera Hacendado · Botella",
-     "price": 1.56,
-     "size": 1500,
-     "url": "https://tienda.mercadona.es/product/10540/leche-entera-hacendado-botella",
-     "thumb": "https://prod-mercadona.imgix.net/images/b4eb04d1b82b50228bae54af395675a1.jpg?fit=crop&h=300&w=300",
-     "category": "Leche y bebidas vegetales > Leche entera"
-    },
     {
      "id": "10933",
      "name": "Leche entera Hacendado · Botella",
@@ -1609,32 +1601,59 @@
      "category": "Leche y bebidas vegetales > Leche entera"
     },
     {
-     "id": "10530",
-     "name": "Leche entera Asturiana · Pack-6",
-     "price": 7.74,
-     "size": 6000,
-     "url": "https://tienda.mercadona.es/product/10530/leche-entera-asturiana-pack-6",
-     "thumb": "https://prod-mercadona.imgix.net/images/6751278cbad81ab48d3e40934bab3c03.jpg?fit=crop&h=300&w=300",
+     "id": "10617",
+     "name": "Leche entera Asturiana · Brik",
+     "price": 1.29,
+     "size": 1000,
+     "url": "https://tienda.mercadona.es/product/10617/leche-entera-asturiana-brick",
+     "thumb": "https://prod-mercadona.imgix.net/images/8bedc0ed2166e3e37219b40a2d5ea6d0.jpg?fit=crop&h=300&w=300",
+     "category": "Leche y bebidas vegetales > Leche entera"
+    },
+    {
+     "id": "10619",
+     "name": "Leche entera Llet Nostra · Brik",
+     "price": 1.29,
+     "size": 1000,
+     "url": "https://tienda.mercadona.es/product/10619/leche-entera-llet-nostra-brick",
+     "thumb": "https://prod-mercadona.imgix.net/images/2c094c3539fcfe81dcc99674cc9c7f8f.jpg?fit=crop&h=300&w=300",
+     "category": "Leche y bebidas vegetales > Leche entera"
+    },
+    {
+     "id": "10783",
+     "name": "Leche entera Hacendado",
+     "price": 1.71,
+     "size": 1200,
+     "url": "https://tienda.mercadona.es/product/10783/leche-entera-hacendado-pack-6",
+     "thumb": "https://prod-mercadona.imgix.net/images/6e6f87557b2929cfffcc08ef72385328.jpg?fit=crop&h=300&w=300",
+     "category": "Leche y bebidas vegetales > Leche entera"
+    },
+    {
+     "id": "10699",
+     "name": "Leche entera sin lactosa Hacendado · Brik",
+     "price": 1.03,
+     "size": 1000,
+     "url": "https://tienda.mercadona.es/product/10699/leche-entera-sin-lactosa-hacendado-brick",
+     "thumb": "https://prod-mercadona.imgix.net/images/4d0aea0e5a58528a63217a2c80332454.jpg?fit=crop&h=300&w=300",
      "category": "Leche y bebidas vegetales > Leche entera"
     }
    ]
   },
   "nata": {
-   "id": "10199",
-   "name": "Nata ligera para cocinar Hacendado · Pack-3",
-   "price": 1.85,
-   "size": 600,
-   "url": "https://tienda.mercadona.es/product/10199/nata-ligera-cocinar-hacendado-pack-3",
-   "thumb": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=300&w=300",
+   "id": "10161",
+   "name": "Nata ligera para cocinar Hacendado · Brik",
+   "price": 1.55,
+   "size": 500,
+   "url": "https://tienda.mercadona.es/product/10161/nata-ligera-cocinar-hacendado-brick",
+   "thumb": "https://prod-mercadona.imgix.net/images/f451d3695c8b94b17cb61540de841da8.jpg?fit=crop&h=300&w=300",
    "category": "Mantequilla y margarina > Nata",
    "alternatives": [
     {
-     "id": "10161",
-     "name": "Nata ligera para cocinar Hacendado · Brik",
-     "price": 1.55,
-     "size": 500,
-     "url": "https://tienda.mercadona.es/product/10161/nata-ligera-cocinar-hacendado-brick",
-     "thumb": "https://prod-mercadona.imgix.net/images/f451d3695c8b94b17cb61540de841da8.jpg?fit=crop&h=300&w=300",
+     "id": "10199",
+     "name": "Nata ligera para cocinar Hacendado · Pack-3",
+     "price": 1.85,
+     "size": 600,
+     "url": "https://tienda.mercadona.es/product/10199/nata-ligera-cocinar-hacendado-pack-3",
+     "thumb": "https://prod-mercadona.imgix.net/images/a6cdade0714ab23e58433866c28b32a5.jpg?fit=crop&h=300&w=300",
      "category": "Mantequilla y margarina > Nata"
     },
     {
@@ -1649,23 +1668,14 @@
    ]
   },
   "mantequilla": {
-   "id": "90933",
-   "name": "Mantequilla light Hacendado · Tarrina",
-   "price": 2.1,
+   "id": "20722",
+   "name": "Mantequilla con sal Hacendado · Pastilla",
+   "price": 2.05,
    "size": 250,
-   "url": "https://tienda.mercadona.es/product/90933/mantequilla-light-hacendado-tarrina",
-   "thumb": "https://prod-mercadona.imgix.net/images/9c2765d17957bd0f97211d6f272e00a2.jpg?fit=crop&h=300&w=300",
+   "url": "https://tienda.mercadona.es/product/20722/mantequilla-con-sal-hacendado-pastilla",
+   "thumb": "https://prod-mercadona.imgix.net/images/4c4ad20a9ebac8f92af9581840223d6f.jpg?fit=crop&h=300&w=300",
    "category": "Mantequilla y margarina > Mantequilla",
    "alternatives": [
-    {
-     "id": "20722",
-     "name": "Mantequilla con sal Hacendado · Pastilla",
-     "price": 2.05,
-     "size": 250,
-     "url": "https://tienda.mercadona.es/product/20722/mantequilla-con-sal-hacendado-pastilla",
-     "thumb": "https://prod-mercadona.imgix.net/images/4c4ad20a9ebac8f92af9581840223d6f.jpg?fit=crop&h=300&w=300",
-     "category": "Mantequilla y margarina > Mantequilla"
-    },
     {
      "id": "20727",
      "name": "Mantequilla con sal Hacendado · Tarrina",
@@ -1701,6 +1711,15 @@
      "url": "https://tienda.mercadona.es/product/60622/mantequilla-sin-sal-anadida-hacendado-tarrina",
      "thumb": "https://prod-mercadona.imgix.net/images/8c11c0b183629fa23a4860057686e794.jpg?fit=crop&h=300&w=300",
      "category": "Mantequilla y margarina > Mantequilla"
+    },
+    {
+     "id": "20852",
+     "name": "Mantequilla en porciones Hacendado sin sal añadida",
+     "price": 2.05,
+     "size": 150,
+     "url": "https://tienda.mercadona.es/product/20852/mantequilla-porciones-hacendado-sin-sal-anadida-pack-12",
+     "thumb": "https://prod-mercadona.imgix.net/images/800490694b7b70ad433e2d6ba78a4b8e.jpg?fit=crop&h=300&w=300",
+     "category": "Mantequilla y margarina > Mantequilla"
     }
    ]
   },
@@ -1723,21 +1742,21 @@
      "category": "Arroz > Arroz"
     },
     {
-     "id": "22279",
-     "name": "Arroz cocido redondo Sabroz · Pack-2",
-     "price": 1.05,
-     "size": 250,
-     "url": "https://tienda.mercadona.es/product/22279/arroz-cocido-redondo-sabroz-brillante-pack-2",
-     "thumb": "https://prod-mercadona.imgix.net/images/b87d489084215ea73d35d6c2d465f39e.jpg?fit=crop&h=300&w=300",
-     "category": "Arroz > Arroz"
-    },
-    {
      "id": "5042",
      "name": "Arroz redondo J Sendra Hacendado · Paquete",
      "price": 1.6,
      "size": 1000,
      "url": "https://tienda.mercadona.es/product/5042/arroz-redondo-j-sendra-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/44a0df1169e9ebdceb061ebea08b4d42.jpg?fit=crop&h=300&w=300",
+     "category": "Arroz > Arroz"
+    },
+    {
+     "id": "22279",
+     "name": "Arroz cocido redondo Sabroz · Pack-2",
+     "price": 1.05,
+     "size": 250,
+     "url": "https://tienda.mercadona.es/product/22279/arroz-cocido-redondo-sabroz-brillante-pack-2",
+     "thumb": "https://prod-mercadona.imgix.net/images/b87d489084215ea73d35d6c2d465f39e.jpg?fit=crop&h=300&w=300",
      "category": "Arroz > Arroz"
     }
    ]
@@ -1763,23 +1782,14 @@
    ]
   },
   "espaguetis": {
-   "id": "6245",
+   "id": "6331",
    "name": "Spaghetti Hacendado · Paquete",
-   "price": 1.2,
-   "size": 1000,
-   "url": "https://tienda.mercadona.es/product/6245/spaghetti-hacendado-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/a88886e2672bdbcf24be02cb8ecddf2f.jpeg?fit=crop&h=300&w=300",
+   "price": 0.85,
+   "size": 500,
+   "url": "https://tienda.mercadona.es/product/6331/spaghetti-hacendado-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/cf7948ff181ca28f71679be1d69457f8.jpg?fit=crop&h=300&w=300",
    "category": "Pasta y fideos > Spaghetti y tallarines",
    "alternatives": [
-    {
-     "id": "6331",
-     "name": "Spaghetti Hacendado · Paquete",
-     "price": 0.85,
-     "size": 500,
-     "url": "https://tienda.mercadona.es/product/6331/spaghetti-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/cf7948ff181ca28f71679be1d69457f8.jpg?fit=crop&h=300&w=300",
-     "category": "Pasta y fideos > Spaghetti y tallarines"
-    },
     {
      "id": "35904",
      "name": "Spaghetti Armando · Paquete",
@@ -1815,27 +1825,27 @@
      "url": "https://tienda.mercadona.es/product/6302/spaghetti-huevo-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/b26f3111a8c49a4c6f8b105e46a65c6e.jpg?fit=crop&h=300&w=300",
      "category": "Pasta y fideos > Spaghetti y tallarines"
+    },
+    {
+     "id": "35670",
+     "name": "Spaghetti sin gluten Felicia · Paquete",
+     "price": 2.05,
+     "size": 500,
+     "url": "https://tienda.mercadona.es/product/35670/spaghetti-sin-gluten-felicia-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/bef71a8d7de884a14da051e0218f7bf1.jpg?fit=crop&h=300&w=300",
+     "category": "Pasta y fideos > Spaghetti y tallarines"
     }
    ]
   },
   "macarrones": {
-   "id": "6250",
+   "id": "6326",
    "name": "Macarrón Hacendado · Paquete",
-   "price": 1.2,
-   "size": 1000,
-   "url": "https://tienda.mercadona.es/product/6250/macarron-hacendado-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/fb1aa0c038c08e68b8d2c7ac8900b9db.jpeg?fit=crop&h=300&w=300",
+   "price": 0.85,
+   "size": 500,
+   "url": "https://tienda.mercadona.es/product/6326/macarron-hacendado-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/9ae3cacb4d10d5bf8790a58cb80989cf.jpg?fit=crop&h=300&w=300",
    "category": "Pasta y fideos > Macarrones, pajaritas y hélices",
    "alternatives": [
-    {
-     "id": "6326",
-     "name": "Macarrón Hacendado · Paquete",
-     "price": 0.85,
-     "size": 500,
-     "url": "https://tienda.mercadona.es/product/6326/macarron-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/9ae3cacb4d10d5bf8790a58cb80989cf.jpg?fit=crop&h=300&w=300",
-     "category": "Pasta y fideos > Macarrones, pajaritas y hélices"
-    },
     {
      "id": "6260",
      "name": "Macarrón fino Hacendado · Paquete",
@@ -1871,6 +1881,15 @@
      "url": "https://tienda.mercadona.es/product/6300/macarron-huevo-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/a0fc33fa49ff80a6ddca3a72f81d0cc7.jpg?fit=crop&h=300&w=300",
      "category": "Pasta y fideos > Macarrones, pajaritas y hélices"
+    },
+    {
+     "id": "6250",
+     "name": "Macarrón Hacendado · Paquete",
+     "price": 1.2,
+     "size": 1000,
+     "url": "https://tienda.mercadona.es/product/6250/macarron-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/fb1aa0c038c08e68b8d2c7ac8900b9db.jpeg?fit=crop&h=300&w=300",
+     "category": "Pasta y fideos > Macarrones, pajaritas y hélices"
     }
    ]
   },
@@ -1902,21 +1921,12 @@
      "category": "Pasta y fideos > Fideos"
     },
     {
-     "id": "22453",
-     "name": "Fideos orientales sabor pollo Hacendado · Vaso",
-     "price": 0.8,
-     "size": 65,
-     "url": "https://tienda.mercadona.es/product/22453/fideos-orientales-sabor-pollo-hacendado-vaso",
-     "thumb": "https://prod-mercadona.imgix.net/images/15c837040a1190dbaa8aa8b91694d67c.jpg?fit=crop&h=300&w=300",
-     "category": "Pasta y fideos > Fideos orientales"
-    },
-    {
-     "id": "22455",
-     "name": "Fideos orientales sabor picante Hacendado · Vaso",
-     "price": 0.9,
-     "size": 65,
-     "url": "https://tienda.mercadona.es/product/22455/fideos-orientales-sabor-picante-hacendado-vaso",
-     "thumb": "https://prod-mercadona.imgix.net/images/8bec671f939d6c273b8889b95bf5eae2.jpg?fit=crop&h=300&w=300",
+     "id": "8645",
+     "name": "Fideos orientales Yatekomo sabor pollo Gallina Blanca",
+     "price": 4.1,
+     "size": 180,
+     "url": "https://tienda.mercadona.es/product/8645/fideos-orientales-yatekomo-sabor-pollo-gallina-blanca-pack-3",
+     "thumb": "https://prod-mercadona.imgix.net/images/7b16a9e40a1acc0213f397e27b6201a4.jpg?fit=crop&h=300&w=300",
      "category": "Pasta y fideos > Fideos orientales"
     },
     {
@@ -1927,25 +1937,34 @@
      "url": "https://tienda.mercadona.es/product/8730/fideos-orientales-yakisoba-sabor-soja-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/c5b3f99d81895edde8f133661d480db0.jpg?fit=crop&h=300&w=300",
      "category": "Pasta y fideos > Fideos orientales"
+    },
+    {
+     "id": "22453",
+     "name": "Fideos orientales sabor pollo Hacendado · Vaso",
+     "price": 0.8,
+     "size": 65,
+     "url": "https://tienda.mercadona.es/product/22453/fideos-orientales-sabor-pollo-hacendado-vaso",
+     "thumb": "https://prod-mercadona.imgix.net/images/15c837040a1190dbaa8aa8b91694d67c.jpg?fit=crop&h=300&w=300",
+     "category": "Pasta y fideos > Fideos orientales"
     }
    ]
   },
   "noodles": {
-   "id": "9861",
-   "name": "Noodles Ramen Hacendado · Paquete",
-   "price": 0.85,
-   "size": 200,
-   "url": "https://tienda.mercadona.es/product/9861/noodles-ramen-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/9e9cea574b49ba9c0ef349de109a008d.jpg?fit=crop&h=300&w=300",
+   "id": "24528",
+   "name": "Noodles orientales Hacendado",
+   "price": 1.7,
+   "size": 220,
+   "url": "https://tienda.mercadona.es/product/24528/noodles-orientales-hacendado",
+   "thumb": "https://prod-mercadona.imgix.net/images/2b23e615db55b083f3bcb8ef1faa9837.jpg?fit=crop&h=300&w=300",
    "category": "Pasta y fideos > Fideos orientales",
    "alternatives": [
     {
-     "id": "24528",
-     "name": "Noodles orientales Hacendado",
-     "price": 1.7,
-     "size": 220,
-     "url": "https://tienda.mercadona.es/product/24528/noodles-orientales-hacendado",
-     "thumb": "https://prod-mercadona.imgix.net/images/2b23e615db55b083f3bcb8ef1faa9837.jpg?fit=crop&h=300&w=300",
+     "id": "9861",
+     "name": "Noodles Ramen Hacendado · Paquete",
+     "price": 0.85,
+     "size": 200,
+     "url": "https://tienda.mercadona.es/product/9861/noodles-ramen-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/9e9cea574b49ba9c0ef349de109a008d.jpg?fit=crop&h=300&w=300",
      "category": "Pasta y fideos > Fideos orientales"
     },
     {
@@ -1970,41 +1989,41 @@
    "alternatives": []
   },
   "lentejas_cocidas": {
-   "id": "26030",
+   "id": "26011",
    "name": "Lenteja cocida Hacendado · Tarro",
-   "price": 0.9,
-   "size": 570,
-   "url": "https://tienda.mercadona.es/product/26030/lenteja-cocida-hacendado-tarro",
-   "thumb": "https://prod-mercadona.imgix.net/images/50b071c4bae7230b8de346b495a7981b.jpg?fit=crop&h=300&w=300",
+   "price": 0.75,
+   "size": 295,
+   "url": "https://tienda.mercadona.es/product/26011/lenteja-cocida-hacendado-tarro",
+   "thumb": "https://prod-mercadona.imgix.net/images/ffbc3f23e35051fc1a326bda5a4f9063.jpg?fit=crop&h=300&w=300",
    "category": "Legumbres > Lentejas y otros",
    "alternatives": [
     {
-     "id": "26011",
+     "id": "26030",
      "name": "Lenteja cocida Hacendado · Tarro",
-     "price": 0.75,
-     "size": 295,
-     "url": "https://tienda.mercadona.es/product/26011/lenteja-cocida-hacendado-tarro",
-     "thumb": "https://prod-mercadona.imgix.net/images/ffbc3f23e35051fc1a326bda5a4f9063.jpg?fit=crop&h=300&w=300",
+     "price": 0.9,
+     "size": 570,
+     "url": "https://tienda.mercadona.es/product/26030/lenteja-cocida-hacendado-tarro",
+     "thumb": "https://prod-mercadona.imgix.net/images/50b071c4bae7230b8de346b495a7981b.jpg?fit=crop&h=300&w=300",
      "category": "Legumbres > Lentejas y otros"
     }
    ]
   },
   "garbanzos_cocidos": {
-   "id": "26029",
+   "id": "26039",
    "name": "Garbanzo cocido Hacendado · Tarro",
-   "price": 0.8,
-   "size": 570,
-   "url": "https://tienda.mercadona.es/product/26029/garbanzo-cocido-hacendado-tarro",
-   "thumb": "https://prod-mercadona.imgix.net/images/b8b807948038c4b64791632f799e9bd8.jpg?fit=crop&h=300&w=300",
+   "price": 0.75,
+   "size": 295,
+   "url": "https://tienda.mercadona.es/product/26039/garbanzo-cocido-hacendado-tarro",
+   "thumb": "https://prod-mercadona.imgix.net/images/66cff189ab481a314894b2ca6c1a5ff3.jpg?fit=crop&h=300&w=300",
    "category": "Legumbres > Garbanzos",
    "alternatives": [
     {
-     "id": "26039",
+     "id": "26029",
      "name": "Garbanzo cocido Hacendado · Tarro",
-     "price": 0.75,
-     "size": 295,
-     "url": "https://tienda.mercadona.es/product/26039/garbanzo-cocido-hacendado-tarro",
-     "thumb": "https://prod-mercadona.imgix.net/images/66cff189ab481a314894b2ca6c1a5ff3.jpg?fit=crop&h=300&w=300",
+     "price": 0.8,
+     "size": 570,
+     "url": "https://tienda.mercadona.es/product/26029/garbanzo-cocido-hacendado-tarro",
+     "thumb": "https://prod-mercadona.imgix.net/images/b8b807948038c4b64791632f799e9bd8.jpg?fit=crop&h=300&w=300",
      "category": "Legumbres > Garbanzos"
     },
     {
@@ -2019,34 +2038,33 @@
    ]
   },
   "alubias_rojas": {
-   "id": "67609",
-   "name": "Alubia roja Hacendado · Paquete",
-   "price": 3,
-   "size": 1000,
-   "url": "https://tienda.mercadona.es/product/67609/alubia-roja-hacendado-categoria-extra-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/176a8ea1981b85fa0d906ed9f9a27145.jpg?fit=crop&h=300&w=300",
+   "id": "26000",
+   "name": "Alubia cocida roja Hacendado · Tarro",
+   "price": 1.2,
+   "size": 570,
+   "url": "https://tienda.mercadona.es/product/26000/alubia-cocida-roja-hacendado-tarro",
+   "thumb": "https://prod-mercadona.imgix.net/images/231e70f1833a97babe9b0ecab3bfee2c.jpg?fit=crop&h=300&w=300",
    "category": "Legumbres > Alubias",
-   "alternatives": [
-    {
-     "id": "26000",
-     "name": "Alubia cocida roja Hacendado · Tarro",
-     "price": 1.2,
-     "size": 570,
-     "url": "https://tienda.mercadona.es/product/26000/alubia-cocida-roja-hacendado-tarro",
-     "thumb": "https://prod-mercadona.imgix.net/images/231e70f1833a97babe9b0ecab3bfee2c.jpg?fit=crop&h=300&w=300",
-     "category": "Legumbres > Alubias"
-    }
-   ]
+   "alternatives": []
   },
   "tomate_frito": {
-   "id": "17132",
-   "name": "Tomate frito Hacendado · Pack-3",
-   "price": 1.35,
-   "size": 1200,
-   "url": "https://tienda.mercadona.es/product/17132/tomate-frito-hacendado-pack-3",
-   "thumb": "https://prod-mercadona.imgix.net/images/e589c8259daf4b9335098fb9ade7ee09.jpg?fit=crop&h=300&w=300",
+   "id": "17108",
+   "name": "Tomate frito Hacendado · Tarro",
+   "price": 0.9,
+   "size": 560,
+   "url": "https://tienda.mercadona.es/product/17108/tomate-frito-hacendado-tarro",
+   "thumb": "https://prod-mercadona.imgix.net/images/18fcaf49c55e224bb2bd9774dec259fa.jpg?fit=crop&h=300&w=300",
    "category": "Tomate > Tomate",
    "alternatives": [
+    {
+     "id": "17153",
+     "name": "Tomate frito estilo casero Hacendado · Brik",
+     "price": 1.2,
+     "size": 380,
+     "url": "https://tienda.mercadona.es/product/17153/tomate-frito-estilo-casero-hacendado-con-aceite-oliva-brick",
+     "thumb": "https://prod-mercadona.imgix.net/images/b316f525c80033093912e2829796b5cc.jpg?fit=crop&h=300&w=300",
+     "category": "Tomate > Tomate"
+    },
     {
      "id": "17151",
      "name": "Tomate frito Hacendado · Pack-3",
@@ -2057,21 +2075,12 @@
      "category": "Tomate > Tomate"
     },
     {
-     "id": "17108",
-     "name": "Tomate frito Hacendado · Tarro",
-     "price": 0.9,
-     "size": 560,
-     "url": "https://tienda.mercadona.es/product/17108/tomate-frito-hacendado-tarro",
-     "thumb": "https://prod-mercadona.imgix.net/images/18fcaf49c55e224bb2bd9774dec259fa.jpg?fit=crop&h=300&w=300",
-     "category": "Tomate > Tomate"
-    },
-    {
-     "id": "17153",
-     "name": "Tomate frito estilo casero Hacendado · Brik",
-     "price": 1.2,
-     "size": 380,
-     "url": "https://tienda.mercadona.es/product/17153/tomate-frito-estilo-casero-hacendado-con-aceite-oliva-brick",
-     "thumb": "https://prod-mercadona.imgix.net/images/b316f525c80033093912e2829796b5cc.jpg?fit=crop&h=300&w=300",
+     "id": "17131",
+     "name": "Tomate frito receta artesana Hacendado · Tarro",
+     "price": 1.4,
+     "size": 300,
+     "url": "https://tienda.mercadona.es/product/17131/tomate-frito-receta-artesana-hacendado-con-aceite-oliva-tarro",
+     "thumb": "https://prod-mercadona.imgix.net/images/450e65a016ec657d968e9926d761ec85.jpg?fit=crop&h=300&w=300",
      "category": "Tomate > Tomate"
     },
     {
@@ -2084,52 +2093,61 @@
      "category": "Tomate > Tomate"
     },
     {
-     "id": "17131",
-     "name": "Tomate frito receta artesana Hacendado · Tarro",
-     "price": 1.4,
-     "size": 300,
-     "url": "https://tienda.mercadona.es/product/17131/tomate-frito-receta-artesana-hacendado-con-aceite-oliva-tarro",
-     "thumb": "https://prod-mercadona.imgix.net/images/450e65a016ec657d968e9926d761ec85.jpg?fit=crop&h=300&w=300",
+     "id": "17330",
+     "name": "Tomate frito sin azúcares añadidos Hacendado · Tarro",
+     "price": 1.1,
+     "size": 560,
+     "url": "https://tienda.mercadona.es/product/17330/tomate-frito-sin-azucares-anadidos-hacendado-tarro",
+     "thumb": "https://prod-mercadona.imgix.net/images/67b219b3fd062167db5b46611259160e.jpg?fit=crop&h=300&w=300",
      "category": "Tomate > Tomate"
     }
    ]
   },
   "tomate_triturado": {
-   "id": "16043",
+   "id": "16044",
    "name": "Tomate triturado Hacendado · Bote",
-   "price": 1,
-   "size": 800,
-   "url": "https://tienda.mercadona.es/product/16043/tomate-triturado-hacendado-freir-bote",
-   "thumb": "https://prod-mercadona.imgix.net/images/117a2a2230b103f17b50e07a73a8fc38.jpg?fit=crop&h=300&w=300",
+   "price": 0.55,
+   "size": 400,
+   "url": "https://tienda.mercadona.es/product/16044/tomate-triturado-hacendado-freir-bote",
+   "thumb": "https://prod-mercadona.imgix.net/images/db53895dcbf286affe16def253a0ab89.jpg?fit=crop&h=300&w=300",
    "category": "Tomate > Tomate",
    "alternatives": [
     {
-     "id": "16044",
+     "id": "16043",
      "name": "Tomate triturado Hacendado · Bote",
-     "price": 0.55,
-     "size": 400,
-     "url": "https://tienda.mercadona.es/product/16044/tomate-triturado-hacendado-freir-bote",
-     "thumb": "https://prod-mercadona.imgix.net/images/db53895dcbf286affe16def253a0ab89.jpg?fit=crop&h=300&w=300",
+     "price": 1,
+     "size": 800,
+     "url": "https://tienda.mercadona.es/product/16043/tomate-triturado-hacendado-freir-bote",
+     "thumb": "https://prod-mercadona.imgix.net/images/117a2a2230b103f17b50e07a73a8fc38.jpg?fit=crop&h=300&w=300",
      "category": "Tomate > Tomate"
     }
    ]
   },
   "atun": {
-   "id": "18086",
-   "name": "Atún en aceite de girasol Hacendado · Lata",
-   "price": 6.5,
-   "size": 900,
-   "url": "https://tienda.mercadona.es/product/18086/atun-aceite-girasol-hacendado-lata",
-   "thumb": "https://prod-mercadona.imgix.net/images/2c06dcbb4643e6b4447d5d064c4eb6a5.jpeg?fit=crop&h=300&w=300",
+   "id": "18037",
+   "name": "Atún en salsa de tomate Hacendado · Pack-3",
+   "price": 2.1,
+   "size": 240,
+   "url": "https://tienda.mercadona.es/product/18037/atun-salsa-tomate-hacendado-pack-3",
+   "thumb": "https://prod-mercadona.imgix.net/images/c9071d53ff875259f5093059e17a732b.jpeg?fit=crop&h=300&w=300",
    "category": "Atún y otras conservas de pescado > Atún",
    "alternatives": [
     {
-     "id": "18030",
-     "name": "Atún en aceite de oliva Hacendado · Lata",
-     "price": 7.7,
-     "size": 900,
-     "url": "https://tienda.mercadona.es/product/18030/atun-aceite-oliva-hacendado-lata",
-     "thumb": "https://prod-mercadona.imgix.net/images/890912ced7f8be4da5455ca493729892.jpeg?fit=crop&h=300&w=300",
+     "id": "18092",
+     "name": "Atún claro en aceite de girasol Hacendado · Pack-3",
+     "price": 2.7,
+     "size": 240,
+     "url": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
+     "thumb": "https://prod-mercadona.imgix.net/images/05c67043e6c2918b27b0d79ebfb99a7a.jpg?fit=crop&h=300&w=300",
+     "category": "Atún y otras conservas de pescado > Atún"
+    },
+    {
+     "id": "18054",
+     "name": "Atún claro en aceite de oliva Hacendado · Bote",
+     "price": 3.7,
+     "size": 195,
+     "url": "https://tienda.mercadona.es/product/18054/atun-claro-aceite-oliva-hacendado-bote",
+     "thumb": "https://prod-mercadona.imgix.net/images/666079e35f5efa5f551aba0c2136ea8e.jpg?fit=crop&h=300&w=300",
      "category": "Atún y otras conservas de pescado > Atún"
     },
     {
@@ -2148,15 +2166,6 @@
      "size": 480,
      "url": "https://tienda.mercadona.es/product/18002/atun-claro-aceite-oliva-hacendado-pack-6",
      "thumb": "https://prod-mercadona.imgix.net/images/003c8146e861ce8abd19032687b62da0.jpg?fit=crop&h=300&w=300",
-     "category": "Atún y otras conservas de pescado > Atún"
-    },
-    {
-     "id": "18092",
-     "name": "Atún claro en aceite de girasol Hacendado · Pack-3",
-     "price": 2.7,
-     "size": 240,
-     "url": "https://tienda.mercadona.es/product/18092/atun-claro-aceite-girasol-hacendado-pack-3",
-     "thumb": "https://prod-mercadona.imgix.net/images/05c67043e6c2918b27b0d79ebfb99a7a.jpg?fit=crop&h=300&w=300",
      "category": "Atún y otras conservas de pescado > Atún"
     },
     {
@@ -2228,15 +2237,6 @@
    "category": "Conservas de verdura y frutas > Conservas verdura",
    "alternatives": [
     {
-     "id": "16714",
-     "name": "Maíz dulce Hacendado · Pack-3",
-     "price": 1.25,
-     "size": 225,
-     "url": "https://tienda.mercadona.es/product/16714/maiz-dulce-hacendado-pack-3",
-     "thumb": "https://prod-mercadona.imgix.net/images/5bcbf64ad2c678189ecd69c70c280c38.jpg?fit=crop&h=300&w=300",
-     "category": "Conservas de verdura y frutas > Conservas verdura"
-    },
-    {
      "id": "16757",
      "name": "Mazorquitas de maíz agridulce Hacendado · Tarro",
      "price": 2.6,
@@ -2244,36 +2244,27 @@
      "url": "https://tienda.mercadona.es/product/16757/mazorquitas-maiz-agridulce-hacendado-tarro",
      "thumb": "https://prod-mercadona.imgix.net/images/2ebede8e519bda91716db94815679de5.jpg?fit=crop&h=300&w=300",
      "category": "Conservas de verdura y frutas > Conservas verdura"
+    },
+    {
+     "id": "16714",
+     "name": "Maíz dulce Hacendado · Pack-3",
+     "price": 1.25,
+     "size": 225,
+     "url": "https://tienda.mercadona.es/product/16714/maiz-dulce-hacendado-pack-3",
+     "thumb": "https://prod-mercadona.imgix.net/images/5bcbf64ad2c678189ecd69c70c280c38.jpg?fit=crop&h=300&w=300",
+     "category": "Conservas de verdura y frutas > Conservas verdura"
     }
    ]
   },
   "aceite": {
-   "id": "4241",
-   "name": "Aceite de oliva 0,4º Hacendado · Garrafa",
-   "price": 16.75,
-   "size": 5000,
-   "url": "https://tienda.mercadona.es/product/4241/aceite-oliva-04o-hacendado-garrafa",
-   "thumb": "https://prod-mercadona.imgix.net/images/3b8cde7b3cb069ee0316029012cf8562.jpg?fit=crop&h=300&w=300",
+   "id": "4240",
+   "name": "Aceite de oliva 0,4º Hacendado · Botella",
+   "price": 3.6,
+   "size": 1000,
+   "url": "https://tienda.mercadona.es/product/4240/aceite-oliva-04o-hacendado-botella",
+   "thumb": "https://prod-mercadona.imgix.net/images/65c2349950feb1958362e06217003b10.jpg?fit=crop&h=300&w=300",
    "category": "Aceite, vinagre y sal > Aceite de oliva",
    "alternatives": [
-    {
-     "id": "4641",
-     "name": "Aceite de oliva 1º Hacendado · Garrafa",
-     "price": 16.75,
-     "size": 5000,
-     "url": "https://tienda.mercadona.es/product/4641/aceite-oliva-1o-hacendado-garrafa",
-     "thumb": "https://prod-mercadona.imgix.net/images/340603f72b335443e93eeb027630e9ad.jpg?fit=crop&h=300&w=300",
-     "category": "Aceite, vinagre y sal > Aceite de oliva"
-    },
-    {
-     "id": "4240",
-     "name": "Aceite de oliva 0,4º Hacendado · Botella",
-     "price": 3.6,
-     "size": 1000,
-     "url": "https://tienda.mercadona.es/product/4240/aceite-oliva-04o-hacendado-botella",
-     "thumb": "https://prod-mercadona.imgix.net/images/65c2349950feb1958362e06217003b10.jpg?fit=crop&h=300&w=300",
-     "category": "Aceite, vinagre y sal > Aceite de oliva"
-    },
     {
      "id": "4640",
      "name": "Aceite de oliva 1º Hacendado · Botella",
@@ -2284,21 +2275,39 @@
      "category": "Aceite, vinagre y sal > Aceite de oliva"
     },
     {
-     "id": "4711",
-     "name": "Aceite de oliva virgen Hacendado · Garrafa",
-     "price": 11.65,
-     "size": 3000,
-     "url": "https://tienda.mercadona.es/product/4711/aceite-oliva-virgen-hacendado-garrafa",
-     "thumb": "https://prod-mercadona.imgix.net/images/5b2daa7ddeb496942b974d178bf3a47d.jpg?fit=crop&h=300&w=300",
-     "category": "Aceite, vinagre y sal > Aceite de oliva"
-    },
-    {
      "id": "4749",
      "name": "Aceite de oliva virgen Hacendado · Botella",
      "price": 4.1,
      "size": 1000,
      "url": "https://tienda.mercadona.es/product/4749/aceite-oliva-virgen-hacendado-botella",
      "thumb": "https://prod-mercadona.imgix.net/images/a6b5607809fdd257ffd5e778791bdc6a.jpg?fit=crop&h=300&w=300",
+     "category": "Aceite, vinagre y sal > Aceite de oliva"
+    },
+    {
+     "id": "4740",
+     "name": "Aceite de oliva virgen extra Hacendado · Botella",
+     "price": 4.35,
+     "size": 1000,
+     "url": "https://tienda.mercadona.es/product/4740/aceite-oliva-virgen-extra-hacendado-botella",
+     "thumb": "https://prod-mercadona.imgix.net/images/a5648e373920a10023a7ab6304eb0dc0.jpg?fit=crop&h=300&w=300",
+     "category": "Aceite, vinagre y sal > Aceite de oliva"
+    },
+    {
+     "id": "4706",
+     "name": "Aceite de oliva virgen extra Hacendado Gran Selección · Botella",
+     "price": 5.25,
+     "size": 750,
+     "url": "https://tienda.mercadona.es/product/4706/aceite-oliva-virgen-extra-hacendado-gran-seleccion-botella",
+     "thumb": "https://prod-mercadona.imgix.net/images/c60e6e09dc2037a291515d3b15af376c.jpg?fit=crop&h=300&w=300",
+     "category": "Aceite, vinagre y sal > Aceite de oliva"
+    },
+    {
+     "id": "4711",
+     "name": "Aceite de oliva virgen Hacendado · Garrafa",
+     "price": 11.65,
+     "size": 3000,
+     "url": "https://tienda.mercadona.es/product/4711/aceite-oliva-virgen-hacendado-garrafa",
+     "thumb": "https://prod-mercadona.imgix.net/images/5b2daa7ddeb496942b974d178bf3a47d.jpg?fit=crop&h=300&w=300",
      "category": "Aceite, vinagre y sal > Aceite de oliva"
     }
    ]
@@ -2331,22 +2340,13 @@
      "category": "Aceite, vinagre y sal > Sal y bicarbonato"
     },
     {
-     "id": "34130",
-     "name": "Sal de ajo Hacendado · Bote",
-     "price": 1.8,
-     "size": 130,
-     "url": "https://tienda.mercadona.es/product/34130/sal-ajo-hacendado-bote",
-     "thumb": "https://prod-mercadona.imgix.net/images/bd81680a3655bf89428f333254f34979.jpg?fit=crop&h=300&w=300",
+     "id": "8930",
+     "name": "Sal rosa del Himalaya Hacendado · Paquete",
+     "price": 2.65,
+     "size": 1000,
+     "url": "https://tienda.mercadona.es/product/8930/sal-rosa-himalaya-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/6dbe958696d20fec014fbbf536ea4593.jpg?fit=crop&h=300&w=300",
      "category": "Aceite, vinagre y sal > Sal y bicarbonato"
-    },
-    {
-     "id": "34130",
-     "name": "Sal de ajo Hacendado · Bote",
-     "price": 1.8,
-     "size": 130,
-     "url": "https://tienda.mercadona.es/product/34130/sal-ajo-hacendado-bote",
-     "thumb": "https://prod-mercadona.imgix.net/images/bd81680a3655bf89428f333254f34979.jpg?fit=crop&h=300&w=300",
-     "category": "Especias > Otras especias"
     },
     {
      "id": "19734",
@@ -2356,25 +2356,34 @@
      "url": "https://tienda.mercadona.es/product/19734/sal-gruesa-hornear-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/c46d67d22d1cf40d537ab349322b8da2.jpg?fit=crop&h=300&w=300",
      "category": "Aceite, vinagre y sal > Sal y bicarbonato"
+    },
+    {
+     "id": "16864",
+     "name": "Sal fina de mesa Hacendado · Bote",
+     "price": 0.75,
+     "size": 300,
+     "url": "https://tienda.mercadona.es/product/16864/sal-fina-mesa-hacendado-bote",
+     "thumb": "https://prod-mercadona.imgix.net/images/14d233ae4aee44619f27e63caaed1f2e.jpg?fit=crop&h=300&w=300",
+     "category": "Aceite, vinagre y sal > Sal y bicarbonato"
     }
    ]
   },
   "pimienta": {
-   "id": "34171",
-   "name": "Pimienta negra molida Hacendado · Bote",
-   "price": 1.3,
-   "size": 70,
-   "url": "https://tienda.mercadona.es/product/34171/pimienta-negra-molida-hacendado-bote",
-   "thumb": "https://prod-mercadona.imgix.net/images/905e76fd8f59b3931ae5e2c586c4a9f5.jpg?fit=crop&h=300&w=300",
+   "id": "67693",
+   "name": "Molinillo pimienta negra Hacendado · Bote",
+   "price": 1.85,
+   "size": 65,
+   "url": "https://tienda.mercadona.es/product/67693/molinillo-pimienta-negra-hacendado-bote",
+   "thumb": "https://prod-mercadona.imgix.net/images/ff80991c845784c85981a779586661c9.jpg?fit=crop&h=300&w=300",
    "category": "Especias > Pimienta",
    "alternatives": [
     {
-     "id": "67693",
-     "name": "Molinillo pimienta negra Hacendado · Bote",
-     "price": 1.85,
-     "size": 65,
-     "url": "https://tienda.mercadona.es/product/67693/molinillo-pimienta-negra-hacendado-bote",
-     "thumb": "https://prod-mercadona.imgix.net/images/ff80991c845784c85981a779586661c9.jpg?fit=crop&h=300&w=300",
+     "id": "34171",
+     "name": "Pimienta negra molida Hacendado · Bote",
+     "price": 1.3,
+     "size": 70,
+     "url": "https://tienda.mercadona.es/product/34171/pimienta-negra-molida-hacendado-bote",
+     "thumb": "https://prod-mercadona.imgix.net/images/905e76fd8f59b3931ae5e2c586c4a9f5.jpg?fit=crop&h=300&w=300",
      "category": "Especias > Pimienta"
     },
     {
@@ -2457,15 +2466,6 @@
    "category": "Harina y preparado repostería > Harina",
    "alternatives": [
     {
-     "id": "29106",
-     "name": "Harina de trigo grande Hacendado · Paquete",
-     "price": 2.95,
-     "size": 5000,
-     "url": "https://tienda.mercadona.es/product/29106/harina-trigo-grande-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/709e881751a26e426fcf038f3e750cd0.jpg?fit=crop&h=300&w=300",
-     "category": "Harina y preparado repostería > Harina"
-    },
-    {
      "id": "29134",
      "name": "Harina integral de trigo Hacendado · Paquete",
      "price": 0.9,
@@ -2481,6 +2481,15 @@
      "size": 1000,
      "url": "https://tienda.mercadona.es/product/29180/harina-semolosa-trigo-hacendado-especial-fritos-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/c5359da64c7dfe2b653cdb01b6085bee.jpg?fit=crop&h=300&w=300",
+     "category": "Harina y preparado repostería > Harina"
+    },
+    {
+     "id": "29106",
+     "name": "Harina de trigo grande Hacendado · Paquete",
+     "price": 2.95,
+     "size": 5000,
+     "url": "https://tienda.mercadona.es/product/29106/harina-trigo-grande-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/709e881751a26e426fcf038f3e750cd0.jpg?fit=crop&h=300&w=300",
      "category": "Harina y preparado repostería > Harina"
     },
     {
@@ -2515,30 +2524,21 @@
    ]
   },
   "pan_rallado": {
-   "id": "82219",
-   "name": "Pan rallado Hacendado · Paquete",
-   "price": 0.85,
-   "size": 750,
-   "url": "https://tienda.mercadona.es/product/82219/pan-rallado-hacendado-paquete",
-   "thumb": "https://prod-mercadona.imgix.net/images/fe031df985de4909241d4503364df110.jpg?fit=crop&h=300&w=300",
+   "id": "82352",
+   "name": "Pan rallado casero Hacendado · Paquete",
+   "price": 1,
+   "size": 500,
+   "url": "https://tienda.mercadona.es/product/82352/pan-rallado-casero-hacendado-paquete",
+   "thumb": "https://prod-mercadona.imgix.net/images/7d68ff5676a8158bdcb746652bb3a8f7.jpg?fit=crop&h=300&w=300",
    "category": "Pan tostado y rallado > Pan rallado",
    "alternatives": [
     {
-     "id": "82352",
-     "name": "Pan rallado casero Hacendado · Paquete",
-     "price": 1,
-     "size": 500,
-     "url": "https://tienda.mercadona.es/product/82352/pan-rallado-casero-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/7d68ff5676a8158bdcb746652bb3a8f7.jpg?fit=crop&h=300&w=300",
-     "category": "Pan tostado y rallado > Pan rallado"
-    },
-    {
-     "id": "82656",
-     "name": "Pan rallado de arroz Hacendado · Paquete",
-     "price": 2,
-     "size": 350,
-     "url": "https://tienda.mercadona.es/product/82656/pan-rallado-sin-gluten-hacendado-paquete",
-     "thumb": "https://prod-mercadona.imgix.net/images/1fe73669ffad4e34c4b4c33890289cbd.jpg?fit=crop&h=300&w=300",
+     "id": "82219",
+     "name": "Pan rallado Hacendado · Paquete",
+     "price": 0.85,
+     "size": 750,
+     "url": "https://tienda.mercadona.es/product/82219/pan-rallado-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/fe031df985de4909241d4503364df110.jpg?fit=crop&h=300&w=300",
      "category": "Pan tostado y rallado > Pan rallado"
     },
     {
@@ -2548,6 +2548,15 @@
      "size": 500,
      "url": "https://tienda.mercadona.es/product/82227/pan-rallado-con-ajo-perejil-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/618fc5e463121c35126427369486d7bf.jpg?fit=crop&h=300&w=300",
+     "category": "Pan tostado y rallado > Pan rallado"
+    },
+    {
+     "id": "82656",
+     "name": "Pan rallado de arroz Hacendado · Paquete",
+     "price": 2,
+     "size": 350,
+     "url": "https://tienda.mercadona.es/product/82656/pan-rallado-sin-gluten-hacendado-paquete",
+     "thumb": "https://prod-mercadona.imgix.net/images/1fe73669ffad4e34c4b4c33890289cbd.jpg?fit=crop&h=300&w=300",
      "category": "Pan tostado y rallado > Pan rallado"
     }
    ]
