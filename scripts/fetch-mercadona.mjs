@@ -3,6 +3,7 @@
 // Uses the same (unofficial) API as tienda.mercadona.es; if it changes, this
 // script fails and the app keeps the previous prices.
 import { readFile, writeFile } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 
 const POSTAL_CODE = process.env.POSTAL_CODE || '08024';
 const BASE = 'https://tienda.mercadona.es/api';
@@ -33,26 +34,35 @@ async function warehouseFor(pc) {
 }
 
 /** Read the ingredient list straight from the app source. */
-async function loadIngredients() {
+export async function loadIngredients() {
   const src = await readFile(new URL('../src/data/ingredients.ts', import.meta.url), 'utf8');
   const aisles = Object.fromEntries([...src.matchAll(/const (\w\w) = '([^']+)';/g)].map((m) => [m[1], m[2]]));
+  const words = (line, key) => {
+    const m = line.match(new RegExp(`\\b${key}: \\[([^\\]]*)\\]`));
+    return m ? [...m[1].matchAll(/'([^']+)'/g)].map((x) => x[1]) : [];
+  };
   const out = [];
-  for (const m of src.matchAll(/\{ id: '([^']+)', name: '([^']+)', aisle: (\w\w), unit: '(\w+)'.*?q: \[([^\]]*)\]/g)) {
-    out.push({ id: m[1], name: m[2], aisle: aisles[m[3]], unit: m[4], q: [...m[5].matchAll(/'([^']+)'/g)].map((x) => x[1]) });
+  for (const line of src.split('\n')) {
+    const m = line.match(/\{ id: '([^']+)', name: '([^']+)', aisle: (\w\w), unit: '(\w+)', pack: ([\d.]+)/);
+    if (!m) continue;
+    out.push({ id: m[1], name: m[2], aisle: aisles[m[3]], unit: m[4], pack: Number(m[5]), q: words(line, 'q'), x: words(line, 'x') });
   }
   return out;
 }
 
-function sizeIn(unit, p) {
+function sizeIn(ing, p) {
   const pi = p.price_instructions ?? {};
   const size = Number(pi.unit_size);
   const fmt = norm(String(pi.size_format ?? ''));
-  if (unit === 'g' && fmt === 'kg' && size > 0) return size * 1000;
-  if (unit === 'ml' && fmt === 'l' && size > 0) return size * 1000;
-  if (unit === 'ud') {
-    if (fmt === 'ud' && size > 0) return size;
-    const m = norm(`${p.packaging ?? ''} ${p.display_name}`).match(/(\d+)\s*(ud|uds|unidades)\b/);
-    return m ? Number(m[1]) : 1;
+  if (ing.unit === 'g' && fmt === 'kg' && size > 0) return size * 1000;
+  if (ing.unit === 'ml' && fmt === 'l' && size > 0) return size * 1000;
+  if (ing.unit === 'ud') {
+    if (fmt === 'ud' && size > 1) return size;
+    if (Number(pi.total_units) > 1) return Number(pi.total_units);
+    const m = norm(`${p.packaging ?? ''} ${p.display_name}`).match(/(\d+)\s*(ud|uds|unidades|piezas)\b/);
+    if (m) return Number(m[1]);
+    // Loose items (one avocado, one lettuce) are 1; packs of unknown count keep the usual size.
+    return ing.pack > 1 && /paquete|bandeja|caja|bolsa|malla/.test(norm(p.packaging ?? '')) ? ing.pack : 1;
   }
   return null;
 }
@@ -64,6 +74,40 @@ function matches(name, words) {
     const word = norm(exact ? w.slice(0, -1) : w);
     return new RegExp(`\\b${word}${exact ? '\\b' : ''}`).test(n);
   });
+}
+
+export function matchProducts(products, ingredients) {
+  const result = {};
+  for (const ing of ingredients) {
+    const toCandidate = (p) => {
+      const size = sizeIn(ing, p);
+      const price = Number(p.price_instructions?.unit_price);
+      if (!size || !(price > 0)) return null;
+      return {
+        id: String(p.id),
+        name: [p.display_name, p.packaging].filter(Boolean).join(' · '),
+        price,
+        size: Math.round(size * 100) / 100,
+        url: p.share_url,
+        thumb: p.thumbnail,
+        category: p._cat,
+        _score: Math.abs(Math.log(size / ing.pack)) + 0.15 * norm(p.display_name).split(/\s+/).length,
+      };
+    };
+    const ok = (p) => matches(p.display_name, ing.q) && !ing.x.some((w) => matches(p.display_name, [w]));
+    let pool = products.filter((p) => norm(p._top) === norm(ing.aisle) && ok(p));
+    if (!pool.length) pool = products.filter((p) => !/aperitivo/i.test(p._top) && ok(p));
+    const cands = pool.map(toCandidate).filter(Boolean);
+    // Prefer the usual pack size and plain products (short names), then the cheapest per unit.
+    cands.sort((a, b) => a._score - b._score || a.price / a.size - b.price / b.size);
+    if (!cands.length) {
+      console.warn(`No match for ${ing.id} (${ing.q.join(' ')})`);
+      continue;
+    }
+    const clean = ({ _score, ...c }) => c;
+    result[ing.id] = { ...clean(cands[0]), alternatives: cands.slice(1, 6).map(clean) };
+  }
+  return result;
 }
 
 async function main() {
@@ -84,41 +128,15 @@ async function main() {
   if (products.length < 500) throw new Error('Too few products, the API may have changed');
 
   const ingredients = await loadIngredients();
-  const result = {};
-  for (const ing of ingredients) {
-    const toCandidate = (p) => {
-      const size = sizeIn(ing.unit, p);
-      const price = Number(p.price_instructions?.unit_price);
-      if (!size || !(price > 0)) return null;
-      return {
-        id: String(p.id),
-        name: [p.display_name, p.packaging].filter(Boolean).join(' · '),
-        price,
-        size: Math.round(size * 100) / 100,
-        url: p.share_url,
-        thumb: p.thumbnail,
-        category: p._cat,
-        _words: norm(p.display_name).split(/\s+/).length,
-      };
-    };
-    let pool = products.filter((p) => norm(p._top) === norm(ing.aisle) && matches(p.display_name, ing.q));
-    if (!pool.length) pool = products.filter((p) => !/aperitivo/i.test(p._top) && matches(p.display_name, ing.q));
-    const cands = pool.map(toCandidate).filter(Boolean);
-    // Prefer plain products (short names), then the cheapest per unit.
-    cands.sort((a, b) => a._words - b._words || a.price / a.size - b.price / b.size);
-    if (!cands.length) {
-      console.warn(`No match for ${ing.id} (${ing.q.join(' ')})`);
-      continue;
-    }
-    const clean = ({ _words, ...c }) => c;
-    result[ing.id] = { ...clean(cands[0]), alternatives: cands.slice(1, 6).map(clean) };
-  }
+  const result = matchProducts(products, ingredients);
   console.log(`Matched ${Object.keys(result).length}/${ingredients.length} ingredients`);
   const file = { updatedAt: new Date().toISOString(), postalCode: POSTAL_CODE, warehouse: wh, products: result };
   await writeFile(OUT, JSON.stringify(file, null, 1) + '\n');
 }
 
-main().catch((e) => {
-  console.error(e);
-  process.exit(1);
-});
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  main().catch((e) => {
+    console.error(e);
+    process.exit(1);
+  });
+}

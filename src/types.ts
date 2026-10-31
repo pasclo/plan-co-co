@@ -31,6 +31,8 @@ export interface Ingredient {
   price: number;
   /** Words that must all appear in the Mercadona product name. */
   q: string[];
+  /** Words that rule a Mercadona product out (e.g. 'rebozada'). */
+  x?: string[];
   allergens?: Allergen[];
   animal?: Animal;
   /** Oil, salt, spices: assumed to be at home, not counted in the budget. */

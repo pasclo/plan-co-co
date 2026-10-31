@@ -34,7 +34,7 @@ export const INGREDIENTS: Ingredient[] = [
   { id: 'tomate', name: 'Tomates', aisle: FV, unit: 'g', pack: 1000, price: 2.5, q: ['tomate'] },
   { id: 'calabacin', name: 'Calabacín', aisle: FV, unit: 'g', pack: 600, price: 1.4, q: ['calabacin'] },
   { id: 'pimiento_rojo', name: 'Pimiento rojo', aisle: FV, unit: 'g', pack: 500, price: 1.9, q: ['pimiento', 'rojo'] },
-  { id: 'pimiento_verde', name: 'Pimiento verde', aisle: FV, unit: 'g', pack: 500, price: 1.5, q: ['pimiento', 'verde'] },
+  { id: 'pimiento_verde', name: 'Pimiento verde', aisle: FV, unit: 'g', pack: 500, price: 1.5, q: ['pimiento', 'verde'], x: ['freir'] },
   { id: 'zanahoria', name: 'Zanahorias', aisle: FV, unit: 'g', pack: 1000, price: 1.1, q: ['zanahoria'] },
   { id: 'lechuga', name: 'Lechuga', aisle: FV, unit: 'ud', pack: 1, price: 1.0, q: ['lechuga'] },
   { id: 'espinacas', name: 'Espinacas frescas', aisle: FV, unit: 'g', pack: 300, price: 1.6, q: ['espinaca'] },
@@ -56,15 +56,15 @@ export const INGREDIENTS: Ingredient[] = [
   { id: 'hamburguesa_vacuno', name: 'Burger meat de vacuno', aisle: CA, unit: 'ud', pack: 4, price: 3.6, q: ['burger', 'vacuno'], animal: 'carne' },
 
   // Pescado
-  { id: 'merluza', name: 'Filetes de merluza', aisle: PE, unit: 'g', pack: 500, price: 5.9, q: ['merluza'], animal: 'pescado', allergens: ['pescado'] },
-  { id: 'salmon', name: 'Lomos de salmón', aisle: PE, unit: 'g', pack: 250, price: 5.2, q: ['salmon'], animal: 'pescado', allergens: ['pescado'] },
-  { id: 'bacalao', name: 'Bacalao desalado', aisle: PE, unit: 'g', pack: 400, price: 5.6, q: ['bacalao'], animal: 'pescado', allergens: ['pescado'] },
+  { id: 'merluza', name: 'Filetes de merluza', aisle: PE, unit: 'g', pack: 500, price: 5.9, q: ['merluza'], x: ['rebozad', 'empanad', 'varita', 'salsa', 'cocid'], animal: 'pescado', allergens: ['pescado'] },
+  { id: 'salmon', name: 'Lomos de salmón', aisle: PE, unit: 'g', pack: 250, price: 5.2, q: ['salmon'], x: ['ahumad', 'rodajas', 'salsa', 'tartar'], animal: 'pescado', allergens: ['pescado'] },
+  { id: 'bacalao', name: 'Bacalao desalado', aisle: PE, unit: 'g', pack: 400, price: 5.6, q: ['bacalao'], x: ['ahumad', 'salsa', 'rebozad', 'rodajas'], animal: 'pescado', allergens: ['pescado'] },
   { id: 'gambas', name: 'Gambas peladas congeladas', aisle: PE, unit: 'g', pack: 300, price: 4.25, q: ['gamba', 'pelada'], animal: 'pescado', allergens: ['marisco'] },
 
   // Charcutería y quesos
-  { id: 'jamon_serrano', name: 'Jamón serrano lonchas', aisle: CH, unit: 'g', pack: 150, price: 2.5, q: ['jamon', 'serrano'], animal: 'carne' },
+  { id: 'jamon_serrano', name: 'Jamón serrano lonchas', aisle: CH, unit: 'g', pack: 150, price: 2.5, q: ['jamon', 'serrano'], x: ['taco', 'pieza'], animal: 'carne' },
   { id: 'jamon_cocido', name: 'Jamón cocido lonchas', aisle: CH, unit: 'g', pack: 250, price: 2.2, q: ['jamon', 'cocido'], animal: 'carne' },
-  { id: 'pavo_lonchas', name: 'Pechuga de pavo lonchas', aisle: CH, unit: 'g', pack: 250, price: 2.4, q: ['pavo'], animal: 'carne' },
+  { id: 'pavo_lonchas', name: 'Pechuga de pavo lonchas', aisle: CH, unit: 'g', pack: 250, price: 2.4, q: ['pechuga', 'pavo'], animal: 'carne' },
   { id: 'bacon', name: 'Bacon en taquitos', aisle: CH, unit: 'g', pack: 200, price: 2.0, q: ['bacon'], animal: 'carne' },
   { id: 'queso_lonchas', name: 'Queso en lonchas', aisle: CH, unit: 'g', pack: 300, price: 2.7, q: ['queso', 'lonchas'], animal: 'lacteo', allergens: ['lactosa'] },
   { id: 'mozzarella_rallada', name: 'Mozzarella rallada', aisle: CH, unit: 'g', pack: 200, price: 1.7, q: ['mozzarella', 'rallad'], animal: 'lacteo', allergens: ['lactosa'] },
@@ -81,10 +81,10 @@ export const INGREDIENTS: Ingredient[] = [
   { id: 'masa_quebrada', name: 'Masa quebrada', aisle: PA, unit: 'ud', pack: 1, price: 1.25, q: ['masa', 'quebrada'], allergens: ['gluten', 'lactosa'] },
 
   // Huevos, leche
-  { id: 'huevos', name: 'Huevos', aisle: HL, unit: 'ud', pack: 12, price: 2.7, q: ['huevos'], animal: 'huevo', allergens: ['huevo'] },
+  { id: 'huevos', name: 'Huevos', aisle: HL, unit: 'ud', pack: 12, price: 2.7, q: ['huevos'], x: ['codorniz', 'cocidos', 'chocolate'], animal: 'huevo', allergens: ['huevo'] },
   { id: 'leche', name: 'Leche entera', aisle: HL, unit: 'ml', pack: 1000, price: 0.95, q: ['leche', 'entera'], animal: 'lacteo', allergens: ['lactosa'] },
   { id: 'nata', name: 'Nata para cocinar', aisle: HL, unit: 'ml', pack: 200, price: 0.65, q: ['nata', 'cocinar'], animal: 'lacteo', allergens: ['lactosa'] },
-  { id: 'mantequilla', name: 'Mantequilla', aisle: HL, unit: 'g', pack: 250, price: 2.6, q: ['mantequilla'], animal: 'lacteo', allergens: ['lactosa'], staple: true },
+  { id: 'mantequilla', name: 'Mantequilla', aisle: HL, unit: 'g', pack: 250, price: 2.6, q: ['mantequilla'], x: ['light'], animal: 'lacteo', allergens: ['lactosa'], staple: true },
 
   // Arroz, legumbres, pasta
   { id: 'arroz', name: 'Arroz redondo', aisle: AL, unit: 'g', pack: 1000, price: 1.3, q: ['arroz', 'redondo'] },
@@ -96,12 +96,12 @@ export const INGREDIENTS: Ingredient[] = [
   { id: 'placas_lasana', name: 'Placas de lasaña', aisle: AL, unit: 'g', pack: 250, price: 1.3, q: ['lasana'], allergens: ['gluten', 'huevo'] },
   { id: 'lentejas_cocidas', name: 'Lentejas cocidas (bote)', aisle: AL, unit: 'g', pack: 400, price: 0.9, q: ['lenteja', 'cocida'] },
   { id: 'garbanzos_cocidos', name: 'Garbanzos cocidos (bote)', aisle: AL, unit: 'g', pack: 400, price: 0.85, q: ['garbanzo', 'cocido'] },
-  { id: 'alubias_rojas', name: 'Alubias rojas cocidas (bote)', aisle: AL, unit: 'g', pack: 400, price: 0.85, q: ['alubia', 'roja'] },
+  { id: 'alubias_rojas', name: 'Alubias rojas cocidas (bote)', aisle: AL, unit: 'g', pack: 400, price: 0.85, q: ['alubia', 'roja', 'cocida'] },
 
   // Conservas, caldos
   { id: 'tomate_frito', name: 'Tomate frito', aisle: CO, unit: 'g', pack: 400, price: 0.8, q: ['tomate', 'frito'] },
   { id: 'tomate_triturado', name: 'Tomate triturado', aisle: CO, unit: 'g', pack: 400, price: 0.7, q: ['tomate', 'triturado'] },
-  { id: 'atun', name: 'Atún en aceite (latas)', aisle: CO, unit: 'g', pack: 240, price: 3.3, q: ['atun', 'aceite'], animal: 'pescado', allergens: ['pescado'] },
+  { id: 'atun', name: 'Atún en aceite (latas)', aisle: CO, unit: 'g', pack: 240, price: 3.3, q: ['atun'], x: ['ventresca', 'escabeche', 'natural', 'ensalada'], animal: 'pescado', allergens: ['pescado'] },
   { id: 'caldo_pollo', name: 'Caldo de pollo', aisle: CO, unit: 'ml', pack: 1000, price: 1.1, q: ['caldo', 'pollo'], animal: 'carne' },
   { id: 'caldo_verduras', name: 'Caldo de verduras', aisle: CO, unit: 'ml', pack: 1000, price: 1.1, q: ['caldo', 'verdura'] },
   { id: 'maiz', name: 'Maíz dulce', aisle: CO, unit: 'g', pack: 420, price: 1.65, q: ['maiz'] },
