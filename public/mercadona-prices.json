@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-31T10:37:15.783Z",
+ "updatedAt": "2026-11-02T13:30:41.726Z",
  "postalCode": "08024",
  "warehouse": "bcn1",
  "products": {
@@ -156,8 +156,8 @@
     {
      "id": "69487",
      "name": "Rama de Tomates · Granel",
-     "price": 1.89,
-     "size": 700,
+     "price": 1.94,
+     "size": 720,
      "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel",
      "thumb": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Tomate"
@@ -194,8 +194,8 @@
   "calabacin": {
    "id": "69338",
    "name": "Calabacín verde · Pieza",
-   "price": 0.55,
-   "size": 390,
+   "price": 0.53,
+   "size": 380,
    "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/ebbfb6a904fe02ba5a88b02f2be911fd.jpg?fit=crop&h=300&w=300",
    "category": "Verdura > Calabacín y pimiento",
@@ -224,7 +224,7 @@
   "zanahoria": {
    "id": "69586",
    "name": "Zanahorias · Paquete",
-   "price": 1,
+   "price": 1.2,
    "size": 1000,
    "url": "https://tienda.mercadona.es/product/69586/zanahorias-paquete",
    "thumb": "https://prod-mercadona.imgix.net/images/b862d3c846b5dd18edc52e0913e9ecc3.jpg?fit=crop&h=300&w=300",
@@ -341,16 +341,16 @@
    "price": 1.56,
    "size": 300,
    "url": "https://tienda.mercadona.es/product/26951/champinon-blanco-bandeja",
-   "thumb": "https://prod-mercadona.imgix.net/images/85f40ddde7ceee23acceff59e749335a.jpg?fit=crop&h=300&w=300",
+   "thumb": "https://prod-mercadona.imgix.net/images/76d46109a2dab94b6508e242d414ac54.jpg?fit=crop&h=300&w=300",
    "category": "Verdura > Setas y champiñones",
    "alternatives": [
     {
      "id": "69664",
      "name": "Champiñones Portobello · Bandeja",
-     "price": 2.21,
+     "price": 2.2,
      "size": 300,
      "url": "https://tienda.mercadona.es/product/69664/champinon-portobello-bandeja",
-     "thumb": "https://prod-mercadona.imgix.net/images/77513ec2ed6e4b77e7a0f52c8a895782.jpg?fit=crop&h=300&w=300",
+     "thumb": "https://prod-mercadona.imgix.net/images/8d35781f87e3553bc3bd60602130fff0.jpeg?fit=crop&h=300&w=300",
      "category": "Verdura > Setas y champiñones"
     },
     {
@@ -367,7 +367,7 @@
   "brocoli": {
    "id": "69580",
    "name": "Brócoli · Pieza",
-   "price": 1.1,
+   "price": 1.3,
    "size": 480,
    "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/2ef72b37fe1021e9ff4ea8f46f9204f8.jpg?fit=crop&h=300&w=300",
@@ -396,8 +396,8 @@
     {
      "id": "3527",
      "name": "Calabaza cacahuete cortada a trozos · Bandeja",
-     "price": 1.82,
-     "size": 520,
+     "price": 2.24,
+     "size": 560,
      "url": "https://tienda.mercadona.es/product/3527/calabaza-cacahuete-cortada-trozos-bandeja",
      "thumb": "https://prod-mercadona.imgix.net/images/40540d250d1043c03dbddb123e77c5b2.jpeg?fit=crop&h=300&w=300",
      "category": "Verdura > Otras verduras y hortalizas"
@@ -455,7 +455,7 @@
     {
      "id": "3172",
      "name": "Pera Limonera · Pieza",
-     "price": 0.62,
+     "price": 0.59,
      "size": 1,
      "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
@@ -486,8 +486,8 @@
   "berenjena": {
    "id": "69326",
    "name": "Berenjena · Pieza",
-   "price": 0.86,
-   "size": 390,
+   "price": 0.88,
+   "size": 400,
    "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/cbd784174d4dfee4fedee9f32d3ad0ab.jpg?fit=crop&h=300&w=300",
    "category": "Verdura > Otras verduras y hortalizas",
@@ -743,13 +743,13 @@
    "price": 9.43,
    "size": 350,
    "url": "https://tienda.mercadona.es/product/87240/porciones-merluza-cabo-bandeja",
-   "thumb": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpg?fit=crop&h=300&w=300",
+   "thumb": "https://prod-mercadona.imgix.net/images/bea41a8d6e71b06f341ab617c65c87ee.jpeg?fit=crop&h=300&w=300",
    "category": "Pescado fresco > Merluza",
    "alternatives": [
     {
      "id": "16562",
      "name": "Fingers de merluza Hacendado ultracongelados · Paquete",
-     "price": 3.75,
+     "price": 3.65,
      "size": 400,
      "url": "https://tienda.mercadona.es/product/16562/fingers-merluza-hacendado-ultracongelados-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/baab82db7292c3f4cbae6970eb8425b9.jpg?fit=crop&h=300&w=300",
@@ -776,7 +776,7 @@
     {
      "id": "63101",
      "name": "Filetes de merluza al huevo Hacendado ultracongelados · Paquete",
-     "price": 5.05,
+     "price": 5.15,
      "size": 600,
      "url": "https://tienda.mercadona.es/product/63101/filetes-merluza-huevo-hacendado-ultracongelados-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/34684f718bc72de972db7881cc030abd.jpg?fit=crop&h=300&w=300",
@@ -879,8 +879,8 @@
     {
      "id": "81204.4",
      "name": "Bacalao media pieza abierto en libro sin cabeza y sin espina · 1/2 Pieza",
-     "price": 18.26,
-     "size": 1410,
+     "price": 18.39,
+     "size": 1420,
      "url": "https://tienda.mercadona.es/product/81204.4/bacalao-media-pieza-abierto-libro-sin-cabeza-sin-espina-12-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/31d725c7f08f131a5e70c3677dc5e69b.jpg?fit=crop&h=300&w=300",
      "category": "Pescado fresco > Bacalao"
@@ -888,8 +888,8 @@
     {
      "id": "81204.2",
      "name": "Bacalao abierto en libro sin cabeza y sin espina · Pieza",
-     "price": 29.78,
-     "size": 2300,
+     "price": 28.1,
+     "size": 2170,
      "url": "https://tienda.mercadona.es/product/81204.2/bacalao-abierto-libro-sin-cabeza-sin-espina-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/144bdf77d235c7a4ca6d525717c6214e.jpg?fit=crop&h=300&w=300",
      "category": "Pescado fresco > Bacalao"
@@ -1575,7 +1575,7 @@
     {
      "id": "10617",
      "name": "Leche entera Asturiana · Brik",
-     "price": 1.29,
+     "price": 1.24,
      "size": 1000,
      "url": "https://tienda.mercadona.es/product/10617/leche-entera-asturiana-brick",
      "thumb": "https://prod-mercadona.imgix.net/images/8bedc0ed2166e3e37219b40a2d5ea6d0.jpg?fit=crop&h=300&w=300",
