@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T13:54:53.203Z",
+ "updatedAt": "2026-11-16T13:39:51.454Z",
  "postalCode": "08024",
  "warehouse": "bcn1",
  "products": {
@@ -51,8 +51,8 @@
     {
      "id": "69066",
      "name": "Patata · Pieza",
-     "price": 0.38,
-     "size": 200,
+     "price": 0.36,
+     "size": 190,
      "url": "https://tienda.mercadona.es/product/69066/patata-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/12ec1b808bbcbc2d5ad6b40d9021cf76.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Patata"
@@ -156,8 +156,8 @@
     {
      "id": "69487",
      "name": "Rama de Tomates · Granel",
-     "price": 2.21,
-     "size": 820,
+     "price": 2.11,
+     "size": 780,
      "url": "https://tienda.mercadona.es/product/69487/rama-tomates-granel",
      "thumb": "https://prod-mercadona.imgix.net/images/b865049658bc89eaf2131c967ee4d57e.jpg?fit=crop&h=300&w=300",
      "category": "Verdura > Tomate"
@@ -194,7 +194,7 @@
   "calabacin": {
    "id": "69338",
    "name": "Calabacín verde · Pieza",
-   "price": 0.55,
+   "price": 0.74,
    "size": 390,
    "url": "https://tienda.mercadona.es/product/69338/calabacin-verde-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/ebbfb6a904fe02ba5a88b02f2be911fd.jpg?fit=crop&h=300&w=300",
@@ -204,8 +204,8 @@
   "pimiento_rojo": {
    "id": "69310",
    "name": "Pimiento rojo · Pieza",
-   "price": 0.9,
-   "size": 310,
+   "price": 0.93,
+   "size": 320,
    "url": "https://tienda.mercadona.es/product/69310/pimiento-rojo-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/6a280610f9bfadf9b78b2197c21acfae.jpeg?fit=crop&h=300&w=300",
    "category": "Verdura > Calabacín y pimiento",
@@ -367,8 +367,8 @@
   "brocoli": {
    "id": "69580",
    "name": "Brócoli · Pieza",
-   "price": 1.46,
-   "size": 540,
+   "price": 1.27,
+   "size": 470,
    "url": "https://tienda.mercadona.es/product/69580/brocoli-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/2ef72b37fe1021e9ff4ea8f46f9204f8.jpg?fit=crop&h=300&w=300",
    "category": "Verdura > Otras verduras y hortalizas",
@@ -417,7 +417,7 @@
   "aguacate": {
    "id": "3830",
    "name": "Aguacate · Pieza",
-   "price": 1.12,
+   "price": 1.23,
    "size": 1,
    "url": "https://tienda.mercadona.es/product/3830/aguacate-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/b1dee7e254871996d81c69a656fa4304.jpg?fit=crop&h=300&w=300",
@@ -446,7 +446,7 @@
     {
      "id": "3210",
      "name": "Limón · Pieza",
-     "price": 0.43,
+     "price": 0.5,
      "size": 1,
      "url": "https://tienda.mercadona.es/product/3210/limon-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/dde3a9f03e3b8abc1ebf690a29c9631d.jpg?fit=crop&h=300&w=300",
@@ -455,7 +455,7 @@
     {
      "id": "3172",
      "name": "Pera Limonera · Pieza",
-     "price": 0.67,
+     "price": 0.7,
      "size": 1,
      "url": "https://tienda.mercadona.es/product/3172/pera-limonera-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/dfb3b85109390b0bb0aab4f838c5ba89.jpg?fit=crop&h=300&w=300",
@@ -466,7 +466,7 @@
   "pepino": {
    "id": "69584",
    "name": "Pepino · Pieza",
-   "price": 0.35,
+   "price": 0.37,
    "size": 1,
    "url": "https://tienda.mercadona.es/product/69584/pepino-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/a1e854648225054f10d2bac80ca7ca98.jpg?fit=crop&h=300&w=300",
@@ -486,8 +486,8 @@
   "berenjena": {
    "id": "69326",
    "name": "Berenjena · Pieza",
-   "price": 0.97,
-   "size": 440,
+   "price": 0.84,
+   "size": 380,
    "url": "https://tienda.mercadona.es/product/69326/berenjena-pieza",
    "thumb": "https://prod-mercadona.imgix.net/images/cbd784174d4dfee4fedee9f32d3ad0ab.jpg?fit=crop&h=300&w=300",
    "category": "Verdura > Otras verduras y hortalizas",
@@ -879,8 +879,8 @@
     {
      "id": "81204.4",
      "name": "Bacalao media pieza abierto en libro sin cabeza y sin espina · 1/2 Pieza",
-     "price": 20.33,
-     "size": 1570,
+     "price": 16.71,
+     "size": 1290,
      "url": "https://tienda.mercadona.es/product/81204.4/bacalao-media-pieza-abierto-libro-sin-cabeza-sin-espina-12-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/31d725c7f08f131a5e70c3677dc5e69b.jpg?fit=crop&h=300&w=300",
      "category": "Pescado fresco > Bacalao"
@@ -888,8 +888,8 @@
     {
      "id": "81204.2",
      "name": "Bacalao abierto en libro sin cabeza y sin espina · Pieza",
-     "price": 39.89,
-     "size": 3080,
+     "price": 38.46,
+     "size": 2970,
      "url": "https://tienda.mercadona.es/product/81204.2/bacalao-abierto-libro-sin-cabeza-sin-espina-pieza",
      "thumb": "https://prod-mercadona.imgix.net/images/144bdf77d235c7a4ca6d525717c6214e.jpg?fit=crop&h=300&w=300",
      "category": "Pescado fresco > Bacalao"
@@ -1269,7 +1269,7 @@
    "price": 0.5,
    "size": 1,
    "url": "https://tienda.mercadona.es/product/83202.1/barra-pan",
-   "thumb": "https://prod-mercadona.imgix.net/images/b0382f15d4c53669852e014255bdc714.jpg?fit=crop&h=300&w=300",
+   "thumb": "https://prod-mercadona.imgix.net/images/b0382f15d4c53669852e014255bdc714.jpeg?fit=crop&h=300&w=300",
    "category": "Pan de horno > Barra de pan",
    "alternatives": [
     {
@@ -1278,7 +1278,7 @@
      "price": 0.5,
      "size": 1,
      "url": "https://tienda.mercadona.es/product/83202.2/barra-pan-rebanada",
-     "thumb": "https://prod-mercadona.imgix.net/images/7474dd2f93517278a47d86c77c7ab673.jpg?fit=crop&h=300&w=300",
+     "thumb": "https://prod-mercadona.imgix.net/images/7474dd2f93517278a47d86c77c7ab673.jpeg?fit=crop&h=300&w=300",
      "category": "Pan de horno > Pan rebanado"
     },
     {
@@ -1575,7 +1575,7 @@
     {
      "id": "10617",
      "name": "Leche entera Asturiana · Brik",
-     "price": 1.24,
+     "price": 1.29,
      "size": 1000,
      "url": "https://tienda.mercadona.es/product/10617/leche-entera-asturiana-brick",
      "thumb": "https://prod-mercadona.imgix.net/images/8bedc0ed2166e3e37219b40a2d5ea6d0.jpg?fit=crop&h=300&w=300",
@@ -1681,7 +1681,7 @@
      "price": 2.45,
      "size": 250,
      "url": "https://tienda.mercadona.es/product/60622/mantequilla-sin-sal-anadida-hacendado-tarrina",
-     "thumb": "https://prod-mercadona.imgix.net/images/8c11c0b183629fa23a4860057686e794.jpg?fit=crop&h=300&w=300",
+     "thumb": "https://prod-mercadona.imgix.net/images/179f181b55787d757ca513ff756f092d.jpg?fit=crop&h=300&w=300",
      "category": "Mantequilla y margarina > Mantequilla"
     },
     {
@@ -1942,7 +1942,7 @@
     {
      "id": "35981",
      "name": "Noodles de arroz Hacendado · Paquete",
-     "price": 1.45,
+     "price": 1.4,
      "size": 200,
      "url": "https://tienda.mercadona.es/product/35981/noodles-arroz-hacendado-paquete",
      "thumb": "https://prod-mercadona.imgix.net/images/d1fcf8864631d627cdb7218ad91744d1.jpg?fit=crop&h=300&w=300",
